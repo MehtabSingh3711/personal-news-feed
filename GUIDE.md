@@ -58,17 +58,13 @@ The pipeline works 100% deterministically without API keys. However, if you want
 
 ---
 
-## Step 4: Enable GitHub Pages
+## Step 4: Your Live GitHub Pages Feed URL
 
-1. In your GitHub repository, go to **Settings** → **Pages**.
-2. Under **Build and deployment**:
-   - **Source**: Select `Deploy from a branch`.
-   - **Branch**: Select `main`, folder `/ (root)`.
-3. Click **Save**.
-4. After a minute, your feed will be published at:
-   ```text
-   https://YOUR_USERNAME.github.io/personal-news-feed/feed.xml
-   ```
+Your GitHub Pages deployment is **SUCCESSFUL** and live at:
+
+```text
+https://mehtabsingh3711.github.io/personal-news-feed/feed.xml
+```
 
 ---
 
@@ -84,17 +80,13 @@ The pipeline works 100% deterministically without API keys. However, if you want
 
 ## Step 6: Subscribe in Reeder on iPhone
 
-1. Copy your feed URL:
+1. Copy your live feed URL:
    ```text
-   https://YOUR_USERNAME.github.io/personal-news-feed/feed.xml
-   ```
-   *(Alternative raw GitHub URL if Pages is not enabled):*
-   ```text
-   https://raw.githubusercontent.com/YOUR_USERNAME/personal-news-feed/main/feed.xml
+   https://mehtabsingh3711.github.io/personal-news-feed/feed.xml
    ```
 2. Open **Reeder** on your iPhone.
 3. Tap **+** (Add Feed / Subscription).
-4. Paste your feed URL.
+4. Paste the URL above.
 5. Tap **Add**.
 
 ---

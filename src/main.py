@@ -118,14 +118,16 @@ def run_pipeline() -> None:
         f"{len(discarded)} discarded"
     )
 
-    # 13. Filter already-published items
+    # 13. Collect all publishable items for feed.xml
     publishable = [
         i for i in items
         if i.classification in (Classification.MUST_READ, Classification.WORTH_KNOWING)
     ]
-    publishable = state.filter_new(publishable)
 
-    # 14. Generate feed.xml
+    # Sort publishable by final_score descending
+    publishable.sort(key=lambda x: x.final_score, reverse=True)
+
+    # 14. Generate feed.xml (always includes active top items so RSS readers can parse it)
     logger.info("\n" + "=" * 40)
     feed_path = generate_feed(publishable)
 

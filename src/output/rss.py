@@ -21,7 +21,7 @@ FEED_DESCRIPTION = (
     "High-signal intelligence briefing: AI research, geopolitics, "
     "financial markets, and major technology announcements."
 )
-FEED_LINK = "https://github.com"  # Updated when deployed
+FEED_LINK = "https://mehtabsingh3711.github.io/personal-news-feed"
 
 
 def generate_feed(

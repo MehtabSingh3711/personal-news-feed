@@ -3,11 +3,11 @@
   <channel>
     <title>Personal Intelligence</title>
     <description>High-signal intelligence briefing: AI research, geopolitics, financial markets, and major technology announcements.</description>
-    <link>https://github.com</link>
+    <link>https://mehtabsingh3711.github.io/personal-news-feed</link>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 18:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 18:22:12 +0000</lastBuildDate>
     <generator>PersonalIntelligenceEngine/1.0</generator>
-    <atom:link href="https://github.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://mehtabsingh3711.github.io/personal-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>[7.3] US Treasury yields fall as jobs report dashes hike bets</title>
       <link>https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-fall-as-jobs-report-dashes-hike-bets/articleshow/133050815.cms</link>
@@ -118,7 +118,7 @@
 &lt;p&gt;Modern Greek is absent from NVIDIA&amp;#x27;s Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, financial, and medical applications. We present an end-to-end adaptation of the Nemotron retrieval stack for Modern Greek, including corpus mining, synthetic supervision, retrieval model training, reranker adaptation, reader fine-tuning, and a new benchmark called HERA. Our study shows that a parameter-free BM25 baseline outperforms several off-the-shelf multilingual dense retrieval models on specialist Greek corpora. After fine-tuning on 65,773 Greek retrieval pairs, a Nemotron 1B embedder improves nDCG@10 from 0.362 to 0.835 and substantially outperforms its unadapted counterpart. The learned language competence transfers to general-domain Greek, although the advantage over BM25 remains domain-dependent. We further adapt a cross-encoder reranker and demonstrate consistent improvements acr...&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / RAG / Technology&lt;/p&gt;
-&lt;h3&gt;SOURCES&lt;/h3&gt;&lt;p&gt;HuggingFace Daily Papers, HuggingFace Daily Papers RSS, HuggingFace Blog&lt;/p&gt;
+&lt;h3&gt;SOURCES&lt;/h3&gt;&lt;p&gt;HuggingFace Daily Papers, HuggingFace Blog, HuggingFace Daily Papers RSS&lt;/p&gt;
 &lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 23 upvotes&lt;/p&gt;</description>
       <guid isPermaLink="false">06bc62e1fde915ae345550b7ea5a7405</guid>
       <pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
@@ -149,7 +149,7 @@
 &lt;p&gt;Tsallis statistics generalizes Boltzmann-Gibbs statistical mechanics through a single real parameter $q$ that controls the weight assigned to rare and frequent events. Originally proposed to describe physical systems with long-range correlations, multifractal geometry, and heavy-tailed fluctuations, the framework has become a recurring ingredient in modern artificial intelligence (AI): it underlies sparse attention mechanisms (\textsc{sparsemax} and $α$-\textsc{entmax}), maximum-entropy reinforcement learning with controllable exploration, robust and heavy-tailed probabilistic models, and a family of generalized loss functions and regularizers. This paper offers a structured perspective on where Tsallis statistics meets AI. We first review the mathematical core: $q$-entropy and its variational (maximum-entropy) foundation, the $q$-exponential and $q$-logarithm, the $q$-central limit theorem, $q$-Gaussian distributions, and their dynamical origin in superstatistics, emphasizing the p...&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;Machine Intelligence / Quantum / AI Research / Research / Technology&lt;/p&gt;
-&lt;h3&gt;SOURCES&lt;/h3&gt;&lt;p&gt;Google Research Blog, DeepMind Blog, HuggingFace Daily Papers RSS, OpenAI Blog, HuggingFace Blog&lt;/p&gt;</description>
+&lt;h3&gt;SOURCES&lt;/h3&gt;&lt;p&gt;Google Research Blog, DeepMind Blog, OpenAI Blog, HuggingFace Blog, HuggingFace Daily Papers RSS&lt;/p&gt;</description>
       <guid isPermaLink="false">e6d40de049c53b834ceac6403dcf62c5</guid>
       <pubDate>Wed, 22 Jul 2026 13:10:21 +0000</pubDate>
       <category>Machine Intelligence</category>
