@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Personal Intelligence — Geopolitics</title>
+    <description>High-signal intelligence briefing: AI research, geopolitics, financial markets, and major technology announcements.</description>
+    <link>https://mehtabsingh3711.github.io/personal-news-feed</link>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Aug 2026 18:35:22 +0000</lastBuildDate>
+    <generator>PersonalIntelligenceEngine/1.0</generator>
+    <atom:link href="https://mehtabsingh3711.github.io/personal-news-feed/geopolitics.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>

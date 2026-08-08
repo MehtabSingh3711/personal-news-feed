@@ -20,6 +20,7 @@ class SourceType(str, Enum):
     NEWS = "news"
     FINANCE = "finance"
     OFFICIAL_COMPANY = "official_company"
+    GITHUB = "github"
 
 
 class Domain(str, Enum):
@@ -28,6 +29,7 @@ class Domain(str, Enum):
     INDIA = "india"
     MARKETS = "markets"
     TECHNOLOGY = "technology"
+    GITHUB = "github"
 
 
 class Classification(str, Enum):
@@ -71,11 +73,18 @@ class IntelligenceItem(BaseModel):
     domain: Domain = Domain.GEOPOLITICS
     categories: list[str] = Field(default_factory=list)
 
-    # Academic identifiers
+    # Editorial brief fields
+    what_happened: str | None = None
+    why_it_matters: str | None = None
+
+    # Academic / Code links & identifiers
     doi: str | None = None
     arxiv_id: str | None = None
     semantic_scholar_id: str | None = None
+    paper_url: str | None = None
+    paper_title: str | None = None
     github_url: str | None = None
+    github_growth: str | None = None
 
     # Authors / venue
     authors: list[str] = Field(default_factory=list)
@@ -108,6 +117,7 @@ class IntelligenceItem(BaseModel):
     # Cluster tracking
     cluster_id: str | None = None
     cluster_sources: list[str] = Field(default_factory=list)
+    clustered_urls: list[tuple[str, str]] = Field(default_factory=list)
 
     # Metadata
     raw_content: str | None = None

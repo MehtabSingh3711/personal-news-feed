@@ -31,7 +31,7 @@ from src.intelligence.event_classifier import classify_all
 from src.intelligence.importance import classify_items, compute_importance
 from src.intelligence.llm_judge import llm_evaluate
 from src.models import Classification
-from src.output.rss import generate_feed
+from src.output.rss import generate_all_feeds, generate_feed
 from src.processing.clustering import cluster_stories
 from src.processing.deduplication import deduplicate
 from src.processing.filtering import filter_items
@@ -124,12 +124,9 @@ def run_pipeline() -> None:
         if i.classification in (Classification.MUST_READ, Classification.WORTH_KNOWING)
     ]
 
-    # Sort publishable by final_score descending
-    publishable.sort(key=lambda x: x.final_score, reverse=True)
-
-    # 14. Generate feed.xml (always includes active top items so RSS readers can parse it)
+    # 14. Generate master feed.xml and category feeds
     logger.info("\n" + "=" * 40)
-    feed_path = generate_feed(publishable)
+    feed_paths = generate_all_feeds(publishable)
 
     # 15. Record state and save
     for item in publishable:
@@ -140,8 +137,9 @@ def run_pipeline() -> None:
     # 16. Summary
     logger.info("\n" + "=" * 60)
     logger.info("PERSONAL INTELLIGENCE ENGINE — Pipeline complete")
-    logger.info(f"  Published: {len(publishable)} items")
-    logger.info(f"  Feed: {feed_path}")
+    logger.info(f"  Published: {len(publishable)} items across {len(feed_paths)} feeds")
+    for fname, fpath in feed_paths.items():
+        logger.info(f"  - {fname}: {fpath.name}")
     logger.info(f"  State entries: {state.count}")
     logger.info("=" * 60)
 

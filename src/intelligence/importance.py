@@ -87,8 +87,29 @@ def _domain_importance(item: IntelligenceItem, config: Config) -> float:
         return _market_importance(text, config)
     elif item.domain == Domain.TECHNOLOGY:
         return _tech_importance(text, config)
+    elif item.domain == Domain.GITHUB:
+        return _github_importance(item, text, config)
 
     return 1.0
+
+
+def _github_importance(item: IntelligenceItem, text: str, config: Config) -> float:
+    """GitHub repository importance: stars + paper association + activity."""
+    score = 0.0
+
+    # Star score (log scaled: 50 stars = 0.5, 500 stars = 1.0, 5000+ stars = 1.5)
+    if item.github_stars > 0:
+        score += min(1.5, math.log1p(item.github_stars) / 6.0)
+
+    # Associated research paper bonus
+    if item.paper_url or item.arxiv_id:
+        score += 0.8
+
+    # High activity / growth bonus
+    if item.github_growth and ("Active" in item.github_growth or "k" in item.github_growth):
+        score += 0.7
+
+    return min(3.0, score)
 
 
 def _ai_importance(item: IntelligenceItem, text: str, config: Config) -> float:

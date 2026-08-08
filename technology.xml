@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Personal Intelligence — Technology</title>
+    <description>High-signal intelligence briefing: AI research, geopolitics, financial markets, and major technology announcements.</description>
+    <link>https://mehtabsingh3711.github.io/personal-news-feed</link>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Aug 2026 18:35:22 +0000</lastBuildDate>
+    <generator>PersonalIntelligenceEngine/1.0</generator>
+    <atom:link href="https://mehtabsingh3711.github.io/personal-news-feed/technology.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[6.7] transformers: 🤗 Transformers: the model-definition framework for state-of-the-art machine learnin...</title>
+      <link>https://github.com/huggingface/transformers</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (163,471 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.7/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Multimodal / Semiconductors&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;163.5k ★ · Active development · 34,143 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/huggingface/transformers&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">53d940334a2a5afd27d78fb59bceaf01</guid>
+      <pubDate>Sat, 08 Aug 2026 18:25:14 +0000</pubDate>
+      <category>GitHub</category>
+      <category>LLM</category>
+      <category>Multimodal</category>
+      <category>Semiconductors</category>
+      <source url="https://github.com/huggingface/transformers">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.7] LLMs-from-scratch: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step</title>
+      <link>https://github.com/rasbt/LLMs-from-scratch</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;Implement a ChatGPT-like LLM in PyTorch from scratch, step by step&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (101,333 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.7/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Semiconductors&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;101.3k ★ · Active development · 15,545 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rasbt/LLMs-from-scratch&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">e0cbbf211a55e79f34a8e7b0ab65ce47</guid>
+      <pubDate>Sat, 08 Aug 2026 15:06:46 +0000</pubDate>
+      <category>GitHub</category>
+      <category>LLM</category>
+      <category>Semiconductors</category>
+      <source url="https://github.com/rasbt/LLMs-from-scratch">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.6] crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborativ...</title>
+      <link>https://github.com/crewAIInc/crewAI</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (64,496 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / Technology&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;56.8k ★ · Active development · 8,097 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/crewAIInc/crewAI&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">715b6bc81ab4b4ffcee5bb2150989321</guid>
+      <pubDate>Sat, 08 Aug 2026 07:26:39 +0000</pubDate>
+      <category>GitHub</category>
+      <category>LLM</category>
+      <category>Agents</category>
+      <category>Technology</category>
+      <source url="https://github.com/crewAIInc/crewAI">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.6] ruflo: 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate auto...</title>
+      <link>https://github.com/ruvnet/ruflo</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (67,382 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / Agents / RAG / Technology&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;67.4k ★ · Active development · 8,057 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ruvnet/ruflo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">c60b77ce50fb8910649941c02ca6d84d</guid>
+      <pubDate>Sat, 08 Aug 2026 06:09:32 +0000</pubDate>
+      <category>GitHub</category>
+      <category>Agents</category>
+      <category>RAG</category>
+      <category>Technology</category>
+      <source url="https://github.com/ruvnet/ruflo">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.3] Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains</title>
+      <link>https://arxiv.org/abs/2608.05138</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Modern Greek is absent from NVIDIA&amp;#x27;s Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, financial, and medical applications. We present an end-to-end adaptation of the Nemotron retrieval stack for Modern Greek, including corpus mining, synthetic supervision, retrieval model training,...&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Enhances retrieval-augmented generation accuracy, knowledge grounding, or context window utilization.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / RAG / Technology&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 23 upvotes&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.05138&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">06bc62e1fde915ae345550b7ea5a7405</guid>
+      <pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>RAG</category>
+      <category>Technology</category>
+      <source url="https://arxiv.org/abs/2608.05138">HuggingFace Daily Papers</source>
+    </item>
+    <item>
+      <title>[6.3] open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)</title>
+      <link>https://github.com/open-webui/open-webui</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;User-friendly AI Interface (Supports Ollama, OpenAI API, ...)&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (148,246 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / RAG / Technology&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;148.2k ★ · Active development · 21,572 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/open-webui/open-webui&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">7c94eb734f17ebfcce7230067c672f89</guid>
+      <pubDate>Fri, 07 Aug 2026 07:24:21 +0000</pubDate>
+      <category>GitHub</category>
+      <category>LLM</category>
+      <category>RAG</category>
+      <category>Technology</category>
+      <source url="https://github.com/open-webui/open-webui">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.3] Towards a quantum computer that learns from its errors</title>
+      <link>https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Tsallis statistics generalizes Boltzmann-Gibbs statistical mechanics through a single real parameter $q$ that controls the weight assigned to rare and frequent events. Originally proposed to describe physical systems with long-range correlations, multifractal geometry, and heavy-tailed fluctuations, the framework has become a recurring ingredient in modern artificial intelligence (AI): it...&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Presents novel methodological contributions or empirical benchmarks for AI research.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;Machine Intelligence / Quantum / AI Research / Research / Technology&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">e6d40de049c53b834ceac6403dcf62c5</guid>
+      <pubDate>Wed, 22 Jul 2026 13:10:21 +0000</pubDate>
+      <category>Machine Intelligence</category>
+      <category>Quantum</category>
+      <category>AI Research</category>
+      <category>Research</category>
+      <category>Technology</category>
+      <source url="https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors">Google Research Blog</source>
+    </item>
+    <item>
+      <title>[6.1] SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding</title>
+      <link>https://arxiv.org/abs/2608.05137</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Understanding 3D scenes is fundamental to embodied intelligence, requiring joint reasoning over heterogeneous information from multiple modalities, including visual and geometric cues. However, the relevance of these modalities often varies across queries. Existing Multimodal Large Language Models (MLLMs) typically rely on fixed modality combinations, overlooking query-dependent modality needs.&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Advances fundamental language model capabilities, reasoning efficiency, or training methodology.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.1/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM / Multimodal / Technology&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 37 upvotes&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2608.05137&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">104c5eff48b5c3d273b4560a4aea76e4</guid>
+      <pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>LLM</category>
+      <category>Multimodal</category>
+      <category>Technology</category>
+      <source url="https://arxiv.org/abs/2608.05137">HuggingFace Daily Papers</source>
+    </item>
+  </channel>
+</rss>

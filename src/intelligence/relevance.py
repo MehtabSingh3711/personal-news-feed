@@ -30,8 +30,26 @@ def score_relevance(item: IntelligenceItem) -> float:
         return _score_market_relevance(item, config)
     elif item.domain == Domain.TECHNOLOGY:
         return _score_technology_relevance(item, config)
+    elif item.domain == Domain.GITHUB:
+        return _score_github_relevance(item, config)
 
     return 1.0  # Default
+
+
+def _score_github_relevance(item: IntelligenceItem, config: Config) -> float:
+    """Score GitHub repository relevance (0-3)."""
+    text = f"{item.title} {item.summary or ''} {' '.join(item.categories)}".lower()
+    score = 1.0
+
+    if any(k in text for k in ["llm", "large language", "agent", "agents", "rag", "multimodal"]):
+        score += 1.5
+    elif any(k in text for k in ["deep learning", "neural", "transformer", "diffusion", "vllm", "inference"]):
+        score += 1.0
+
+    if item.paper_url or item.arxiv_id:
+        score += 0.5
+
+    return min(score, 3.0)
 
 
 def _score_ai_relevance(item: IntelligenceItem, config: Config) -> float:

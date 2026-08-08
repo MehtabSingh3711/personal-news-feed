@@ -5,6 +5,7 @@ from __future__ import annotations
 import logging
 
 from src.config import Config
+from src.ingestion.github_ingestion import fetch_github_intelligence
 from src.ingestion.hf_papers import fetch_hf_papers
 from src.ingestion.rss import fetch_feed
 from src.models import Domain, IntelligenceItem
@@ -19,18 +20,28 @@ DOMAIN_MAP: dict[str, Domain] = {
     "india": Domain.INDIA,
     "markets": Domain.MARKETS,
     "technology": Domain.TECHNOLOGY,
+    "github": Domain.GITHUB,
 }
 
 
 def ingest_all_sources() -> list[IntelligenceItem]:
     """Ingest items from every enabled source.
 
-    Dispatches to the correct fetcher (RSS vs HF API) based on URL.
+    Dispatches to the correct fetcher (RSS vs HF API vs GitHub API).
     Survives individual source failures.
     """
     config = Config.get()
     all_items: list[IntelligenceItem] = []
     stats: dict[str, int] = {}
+
+    # 1. Fetch GitHub Intelligence
+    try:
+        gh_items = fetch_github_intelligence(token=config.github_token)
+        all_items.extend(gh_items)
+        stats["GitHub Intelligence"] = len(gh_items)
+    except Exception as e:
+        logger.error(f"[INGEST] GitHub Intelligence failed: {e}")
+        stats["GitHub Intelligence"] = 0
 
     raw_sources = config._sources_raw.get("sources", {})
 

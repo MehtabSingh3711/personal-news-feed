@@ -107,11 +107,14 @@ class GitHubClient:
             return None
 
     def enrich_item(self, item: IntelligenceItem) -> IntelligenceItem:
-        """Enrich an item with GitHub repository data."""
+        """Enrich an item with GitHub repository data and bidirectional paper links."""
+        # For research papers with arxiv_id, set paper_url
+        if item.arxiv_id and not item.paper_url:
+            item.paper_url = f"https://arxiv.org/abs/{item.arxiv_id}"
+
         # Try to find a GitHub URL in the item
         github_url = item.github_url
         if not github_url:
-            # Search in content for GitHub URLs
             text = f"{item.url} {item.summary or ''}"
             match = _GITHUB_REPO_PATTERN.search(text)
             if match:
@@ -122,16 +125,15 @@ class GitHubClient:
 
         # Clean the repo path
         repo_path = github_url.rstrip("/")
-        # Remove .git suffix
+        if repo_path.startswith("https://github.com/"):
+            repo_path = repo_path[19:]
         if repo_path.endswith(".git"):
             repo_path = repo_path[:-4]
 
         info = self.get_repo_info(repo_path)
-        if not info or not info.get("stars"):
-            return item
-
-        item.github_url = f"https://github.com/{repo_path}"
-        item.github_stars = max(item.github_stars, info.get("stars", 0))
-        item.github_forks = max(item.github_forks, info.get("forks", 0))
+        if info and info.get("stars"):
+            item.github_url = f"https://github.com/{repo_path}"
+            item.github_stars = max(item.github_stars, info.get("stars", 0))
+            item.github_forks = max(item.github_forks, info.get("forks", 0))
 
         return item

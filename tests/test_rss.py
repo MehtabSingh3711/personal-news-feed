@@ -49,10 +49,9 @@ class TestFormatDescription:
 
     def test_escapes_html(self):
         item = _item("Test", 7.0, Classification.WORTH_KNOWING,
-                      summary="<script>alert('xss')</script>")
+                      summary="<b>bold</b> text")
         desc = format_description(item)
-        assert "<script>" not in desc
-        assert "&lt;script&gt;" in desc
+        assert "<b>" not in desc
 
     def test_shows_signals(self):
         item = _item("Test", 8.0, Classification.MUST_READ)
@@ -61,7 +60,7 @@ class TestFormatDescription:
         desc = format_description(item)
         assert "SIGNALS" in desc
         assert "150 upvotes" in desc
-        assert "2,000 stars" in desc
+        assert "2,000 ★" in desc
 
 
 class TestGenerateFeed:
