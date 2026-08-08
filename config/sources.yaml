@@ -1,0 +1,220 @@
+# Personal Intelligence Engine — Source Configuration
+# All RSS/API sources. Do NOT hardcode URLs in Python code.
+
+sources:
+
+  ai_research:
+    - name: HuggingFace Daily Papers
+      url: "API:huggingface_papers"
+      type: research
+      priority: very_high
+      quality_score: 0.95
+      enabled: true
+
+    - name: HuggingFace Daily Papers RSS
+      url: "https://papers.takara.ai/api/feed"
+      type: research
+      priority: high
+      quality_score: 0.90
+      enabled: true
+
+    - name: HuggingFace Blog
+      url: "https://huggingface.co/blog/feed.xml"
+      type: research
+      priority: high
+      quality_score: 0.92
+      enabled: true
+
+    - name: Google Research Blog
+      url: "https://research.google/blog/rss/"
+      type: research
+      priority: very_high
+      quality_score: 0.97
+      enabled: true
+
+    - name: DeepMind Blog
+      url: "https://deepmind.google/blog/rss.xml"
+      type: research
+      priority: very_high
+      quality_score: 0.97
+      enabled: true
+
+    - name: OpenAI Blog
+      url: "https://openai.com/blog/rss.xml"
+      type: research
+      priority: very_high
+      quality_score: 0.97
+      enabled: true
+
+    - name: Apple Machine Learning
+      url: "https://machinelearning.apple.com/rss.xml"
+      type: research
+      priority: high
+      quality_score: 0.95
+      enabled: true
+
+  geopolitics:
+    - name: BBC World
+      url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+      type: news
+      priority: very_high
+      quality_score: 0.93
+      enabled: true
+
+    - name: NYT World
+      url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+      type: news
+      priority: very_high
+      quality_score: 0.95
+      enabled: true
+
+    - name: Reuters via Google News
+      url: "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&hl=en-US&gl=US&ceid=US:en"
+      type: news
+      priority: very_high
+      quality_score: 1.00
+      enabled: true
+
+    - name: AP via Google News
+      url: "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com&hl=en-US&gl=US&ceid=US:en"
+      type: news
+      priority: very_high
+      quality_score: 0.98
+      enabled: true
+
+    - name: Financial Times World
+      url: "https://www.ft.com/world?format=rss"
+      type: news
+      priority: very_high
+      quality_score: 0.97
+      enabled: true
+
+  india:
+    - name: The Hindu National
+      url: "https://www.thehindu.com/news/national/feeder/default.rss"
+      type: news
+      priority: high
+      quality_score: 0.92
+      enabled: true
+
+    - name: Indian Express India
+      url: "https://indianexpress.com/section/india/feed/"
+      type: news
+      priority: high
+      quality_score: 0.92
+      enabled: true
+
+  markets:
+    - name: Financial Times Markets
+      url: "https://www.ft.com/markets?format=rss"
+      type: finance
+      priority: very_high
+      quality_score: 0.97
+      enabled: true
+
+    - name: Moneycontrol Latest
+      url: "https://www.moneycontrol.com/rss/latestnews.xml"
+      type: finance
+      priority: high
+      quality_score: 0.88
+      enabled: true
+
+    - name: Moneycontrol Markets
+      url: "https://www.moneycontrol.com/rss/marketreports.xml"
+      type: finance
+      priority: high
+      quality_score: 0.88
+      enabled: true
+
+    - name: Economic Times Top Stories
+      url: "https://economictimes.indiatimes.com/rssfeedstopstories.cms"
+      type: finance
+      priority: high
+      quality_score: 0.87
+      enabled: true
+
+    - name: ET Markets
+      url: "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"
+      type: finance
+      priority: high
+      quality_score: 0.87
+      enabled: true
+
+    - name: Mint News
+      url: "https://www.livemint.com/rss/news"
+      type: finance
+      priority: high
+      quality_score: 0.87
+      enabled: true
+
+  technology:
+    - name: NVIDIA Blog
+      url: "https://blogs.nvidia.com/feed/"
+      type: official_company
+      priority: very_high
+      quality_score: 0.98
+      enabled: true
+
+    - name: Google Blog
+      url: "https://blog.google/rss/"
+      type: official_company
+      priority: very_high
+      quality_score: 0.98
+      enabled: true
+
+    - name: Apple Newsroom
+      url: "https://www.apple.com/newsroom/rss-feed.rss"
+      type: official_company
+      priority: very_high
+      quality_score: 0.98
+      enabled: true
+
+    - name: Microsoft Blog
+      url: "https://blogs.microsoft.com/feed/"
+      type: official_company
+      priority: very_high
+      quality_score: 0.98
+      enabled: true
+
+    - name: Meta Newsroom
+      url: "https://about.fb.com/news/feed/"
+      type: official_company
+      priority: very_high
+      quality_score: 0.98
+      enabled: true
+
+    - name: Samsung Newsroom
+      url: "https://news.samsung.com/global/feed"
+      type: official_company
+      priority: very_high
+      quality_score: 0.98
+      enabled: true
+
+    - name: AMD IR
+      url: "https://ir.amd.com/rss/news-releases.xml"
+      type: official_company
+      priority: high
+      quality_score: 0.95
+      enabled: true
+
+    - name: Intel Newsroom
+      url: "https://newsroom.intel.com/feed/"
+      type: official_company
+      priority: high
+      quality_score: 0.95
+      enabled: true
+
+    - name: Anthropic via Google News
+      url: "https://news.google.com/rss/search?q=when:7d+allinurl:anthropic.com&hl=en-US&gl=US&ceid=US:en"
+      type: official_company
+      priority: very_high
+      quality_score: 0.95
+      enabled: true
+
+# Notes:
+# - Reuters killed direct RSS in 2020. Using Google News proxy.
+# - AP has no public RSS. Using Google News proxy.
+# - Anthropic has no RSS. Using Google News proxy.
+# - Qualcomm, Tesla, Amazon: no working RSS found. Can add Google News proxies later.
+# - Business Standard: 403 on all endpoints. Covered by other Indian financial sources.
+# - HuggingFace /papers/rss returns 401. Using API:huggingface_papers + community feed.

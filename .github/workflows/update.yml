@@ -1,0 +1,51 @@
+name: Update Intelligence Feed
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:  # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Create data directory
+        run: mkdir -p data/cache
+
+      - name: Run intelligence pipeline
+        env:
+          SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_PROVIDER: ${{ secrets.LLM_PROVIDER || 'gemini' }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL || 'gemini-2.5-flash' }}
+          LLM_ENABLED: ${{ secrets.LLM_ENABLED || 'false' }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m src.main
+
+      - name: Validate feed
+        run: python -c "from lxml import etree; etree.parse('feed.xml'); print('Feed XML valid')"
+
+      - name: Commit and push
+        run: |
+          git config user.name 'Intelligence Bot'
+          git config user.email 'bot@intelligence.local'
+          git add feed.xml data/state.json
+          git diff --cached --quiet || git commit -m "Update intelligence feed [$(date -u +%Y-%m-%dT%H:%M)]"
+          git push

@@ -1,0 +1,114 @@
+# Personal Intelligence Engine — Scoring Configuration
+
+# Score thresholds for classification
+thresholds:
+  must_read: 8.0
+  worth_knowing: 6.0
+
+# Daily volume targets (guidance, not hard limits)
+daily_target:
+  min: 5
+  max: 15
+
+# Recency decay (exponential)
+recency:
+  half_life_hours: 48
+  max_age_days: 7
+  boost_hours: 6    # Items within this window get full recency score
+
+# LLM blending weights (must sum to 1.0)
+llm_blend:
+  deterministic_weight: 0.70
+  llm_weight: 0.30
+  top_k_candidates: 30   # Only send top N to LLM
+
+# Source quality scores (0.0 - 1.0)
+source_quality:
+  reuters: 1.00
+  associated_press: 0.98
+  financial_times: 0.97
+  official_company: 0.98
+  bbc: 0.93
+  nyt: 0.95
+  the_hindu: 0.92
+  indian_express: 0.92
+  google_research: 0.97
+  deepmind: 0.97
+  openai: 0.97
+  huggingface: 0.95
+  moneycontrol: 0.88
+  economic_times: 0.87
+  mint: 0.87
+  default: 0.80
+
+# Cross-source confirmation bonus
+cross_source:
+  two_sources: 0.3
+  three_plus: 0.6
+  high_quality_bonus: 0.2   # Extra bonus when confirmed by top-tier source
+
+# Domain-specific scoring profiles
+# Each profile has component weights that determine how the 0-10 final score is composed
+
+scoring_profiles:
+  ai_research:
+    # Total max: 10.0
+    topic_relevance: 3.0       # How relevant to priority AI topics
+    novelty: 2.0               # New method/architecture vs incremental
+    academic_impact: 1.5       # Citations, venue quality
+    community_signal: 1.5      # HF upvotes, GitHub stars
+    source_quality: 1.0        # Source reputation
+    recency: 1.0               # Time decay
+
+  geopolitics:
+    # Total max: 10.0
+    strategic_significance: 3.0  # Material change in geopolitical landscape
+    policy_impact: 2.0           # Policy/treaty/sanction/trade impact
+    international_scope: 1.5     # Number of countries/regions affected
+    cross_source_confirmation: 1.0
+    source_quality: 1.5          # Wire services get strong weight
+    recency: 1.0
+
+  india:
+    # Total max: 10.0
+    national_significance: 3.0   # Impact on India nationally
+    policy_impact: 2.0           # Government/RBI/SEBI/Supreme Court
+    economic_impact: 1.5         # Economic significance
+    cross_source_confirmation: 1.0
+    source_quality: 1.5
+    recency: 1.0
+
+  markets:
+    # Total max: 10.0
+    market_impact: 3.0           # Actual or expected market movement
+    economic_significance: 2.0   # GDP, employment, inflation
+    policy_impact: 1.5           # Central bank, fiscal policy
+    magnitude: 1.0               # Size of the move or event
+    source_quality: 1.5
+    recency: 1.0
+
+  technology:
+    # Total max: 10.0
+    technical_significance: 3.0  # New product/chip/architecture/model
+    product_importance: 2.0      # Major launch vs minor update
+    industry_impact: 1.5         # Competitive/strategic implications
+    market_impact: 1.0           # Financial/market implications
+    source_quality: 1.5
+    recency: 1.0
+
+# Noise penalties (subtracted from score)
+noise_penalties:
+  clickbait: -2.0
+  gossip: -2.0
+  promotional: -1.5
+  opinion_only: -1.0
+  minor_update: -1.0
+  routine_marketing: -1.5
+  small_price_move: -1.0
+
+# Venue quality bonuses for AI research
+venue_bonuses:
+  tier_1: 0.8    # NeurIPS, ICML, ICLR
+  tier_2: 0.5    # CVPR, ACL, EMNLP, AAAI
+  tier_3: 0.3    # IJCAI, MLSys, JMLR, TMLR
+  nature: 0.7    # Nature Machine Intelligence, Science

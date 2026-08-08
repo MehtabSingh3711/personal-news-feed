@@ -1,0 +1,178 @@
+{
+  "ef8afcd9cb6c552c": {
+    "item_id": "ef8afcd9cb6c552c",
+    "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
+    "url": "https://arxiv.org/abs/2608.01049",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.373969933653506,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-08-01T20:00:00+00:00"
+  },
+  "78dad60376c628d8": {
+    "item_id": "78dad60376c628d8",
+    "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
+    "url": "https://arxiv.org/abs/2608.05138",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.327700116030984,
+    "classification": "worth_knowing",
+    "cluster_id": "cluster_ai_research_332",
+    "published_date": "2026-08-04T20:00:00+00:00"
+  },
+  "8bdf212cc8cdf3a8": {
+    "item_id": "8bdf212cc8cdf3a8",
+    "title": "MASS: Multiplayer World Models with Authoritative Shared State",
+    "url": "https://arxiv.org/abs/2608.06257",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.121230727362991,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-08-05T20:00:00+00:00"
+  },
+  "5aa3804d69c906ea": {
+    "item_id": "5aa3804d69c906ea",
+    "title": "EffectLearner: World-Aware Object-Effect Reasoning for Real-World Video Object Removal",
+    "url": "https://arxiv.org/abs/2608.05565",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.500729321561655,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-08-05T20:00:00+00:00"
+  },
+  "eb3b0be564de859b": {
+    "item_id": "eb3b0be564de859b",
+    "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
+    "url": "https://arxiv.org/abs/2608.06146",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.285083927881279,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-08-05T20:00:00+00:00"
+  },
+  "d249bf706ed3b32b": {
+    "item_id": "d249bf706ed3b32b",
+    "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2608.06197",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.187372717288326,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-08-05T20:00:00+00:00"
+  },
+  "c0fbe2ee07c55525": {
+    "item_id": "c0fbe2ee07c55525",
+    "title": "SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding",
+    "url": "https://arxiv.org/abs/2608.05137",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.085141653905683,
+    "classification": "worth_knowing",
+    "cluster_id": "cluster_ai_research_20",
+    "published_date": "2026-08-04T20:00:00+00:00"
+  },
+  "7f473e6258f504c1": {
+    "item_id": "7f473e6258f504c1",
+    "title": "Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval",
+    "url": "https://arxiv.org/abs/2608.06060",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.575826049859249,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-08-05T20:00:00+00:00"
+  },
+  "159e7c852fc4c16e": {
+    "item_id": "159e7c852fc4c16e",
+    "title": "ChronoVision: Temporal Reasoning via Latent State Reconstruction",
+    "url": "https://arxiv.org/abs/2608.05631",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.1836410936326205,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-08-05T20:00:00+00:00"
+  },
+  "0ed06049a714629c": {
+    "item_id": "0ed06049a714629c",
+    "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
+    "url": "https://arxiv.org/abs/2608.06374",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.814632520845115,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-08-05T20:00:00+00:00"
+  },
+  "86ea2b93e4bc21b4": {
+    "item_id": "86ea2b93e4bc21b4",
+    "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming",
+    "url": "https://arxiv.org/abs/2608.05108",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.373682145761774,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-08-04T20:00:00+00:00"
+  },
+  "b287c446ac29d543": {
+    "item_id": "b287c446ac29d543",
+    "title": "Towards a quantum computer that learns from its errors",
+    "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.269999999999999,
+    "classification": "worth_knowing",
+    "cluster_id": "cluster_ai_research_1505",
+    "published_date": "2026-07-22T13:10:21+00:00"
+  },
+  "e8c00058d75efb62": {
+    "item_id": "e8c00058d75efb62",
+    "title": "SkillHEX: Improving Agent Skills via Hypothesis-Driven Autonomous Exploration and Exploitation",
+    "url": "https://tldr.takara.ai/p/2608.05628",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.122286060877993,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-08-06T00:21:02+00:00"
+  },
+  "7976f9046ed1371b": {
+    "item_id": "7976f9046ed1371b",
+    "title": "Passing the Clarity Act on digital assets is a matter of national security",
+    "url": "https://www.ft.com/content/8b61001e-6d7c-4ca9-8c4b-853b4555f318",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 7.271468662604419,
+    "classification": "worth_knowing",
+    "cluster_id": "cluster_markets_2",
+    "published_date": "2026-08-07T11:30:06+00:00"
+  },
+  "8a2fe6e7d210e48d": {
+    "item_id": "8a2fe6e7d210e48d",
+    "title": "US Treasury yields fall as jobs report dashes hike bets",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-fall-as-jobs-report-dashes-hike-bets/articleshow/133050815.cms",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 7.275957740363813,
+    "classification": "worth_knowing",
+    "cluster_id": "cluster_markets_96",
+    "published_date": "2026-08-08T05:13:14+00:00"
+  },
+  "87b282fa9b0963ca": {
+    "item_id": "87b282fa9b0963ca",
+    "title": "Gold hits seven-week high as weak U.S. jobs data dents rate hike bets",
+    "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms",
+    "first_seen": "2026-08-08T18:03:40.598468+00:00",
+    "last_seen": "2026-08-08T18:03:40.598468+00:00",
+    "score": 6.060665678196168,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-08-07T10:25:36+00:00"
+  }
+}

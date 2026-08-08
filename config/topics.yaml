@@ -1,0 +1,319 @@
+# Personal Intelligence Engine — Topic & Category Configuration
+
+# AI Research topic weights (for relevance scoring)
+ai_topics:
+  very_high:
+    - keyword: "large language model"
+      aliases: ["llm", "llms", "large language models"]
+      weight: 3.0
+    - keyword: "foundation model"
+      aliases: ["foundation models"]
+      weight: 3.0
+    - keyword: "generative ai"
+      aliases: ["genai", "generative artificial intelligence"]
+      weight: 3.0
+    - keyword: "agent"
+      aliases: ["agents", "agentic", "agentic ai", "ai agent", "ai agents"]
+      weight: 3.0
+    - keyword: "reasoning"
+      aliases: ["chain of thought", "cot", "reasoning model", "reasoning models"]
+      weight: 3.0
+    - keyword: "multimodal"
+      aliases: ["multi-modal", "vision-language", "vlm", "multimodal model"]
+      weight: 3.0
+    - keyword: "transformer"
+      aliases: ["transformers", "attention mechanism", "self-attention"]
+      weight: 2.5
+    - keyword: "rag"
+      aliases: ["retrieval augmented generation", "retrieval-augmented"]
+      weight: 2.5
+    - keyword: "reinforcement learning"
+      aliases: ["rl", "rlhf", "reinforcement learning from human feedback"]
+      weight: 2.0
+    - keyword: "diffusion"
+      aliases: ["diffusion model", "diffusion models", "denoising"]
+      weight: 2.0
+    - keyword: "model architecture"
+      aliases: ["neural architecture", "architecture design"]
+      weight: 2.0
+    - keyword: "efficient inference"
+      aliases: ["quantization", "pruning", "distillation", "model compression"]
+      weight: 2.0
+    - keyword: "efficient training"
+      aliases: ["distributed training", "training efficiency"]
+      weight: 2.0
+    - keyword: "ml systems"
+      aliases: ["mlsys", "ml infrastructure", "ai infrastructure"]
+      weight: 2.0
+    - keyword: "alignment"
+      aliases: ["ai alignment", "ai safety", "safety"]
+      weight: 2.0
+    - keyword: "synthetic data"
+      aliases: ["data synthesis", "synthetic training data"]
+      weight: 2.0
+    - keyword: "world model"
+      aliases: ["world models"]
+      weight: 2.0
+    - keyword: "robotics"
+      aliases: ["robot learning", "embodied ai"]
+      weight: 2.0
+    - keyword: "evaluation"
+      aliases: ["benchmark", "benchmarks", "ai evaluation", "model evaluation"]
+      weight: 2.0
+
+  medium:
+    - keyword: "computer vision"
+      aliases: ["cv", "image recognition", "object detection"]
+      weight: 1.5
+    - keyword: "natural language processing"
+      aliases: ["nlp"]
+      weight: 1.5
+    - keyword: "speech"
+      aliases: ["speech recognition", "text-to-speech", "tts", "asr"]
+      weight: 1.5
+    - keyword: "representation learning"
+      aliases: ["self-supervised", "contrastive learning"]
+      weight: 1.0
+    - keyword: "graph neural network"
+      aliases: ["gnn", "graph ml", "graph learning"]
+      weight: 1.0
+    - keyword: "federated learning"
+      aliases: ["federated"]
+      weight: 1.0
+    - keyword: "time series"
+      aliases: ["time-series", "forecasting"]
+      weight: 1.0
+    - keyword: "recommender"
+      aliases: ["recommendation system", "collaborative filtering"]
+      weight: 1.0
+
+  low:
+    - keyword: "random forest"
+      weight: 0.2
+    - keyword: "xgboost"
+      aliases: ["gradient boosting"]
+      weight: 0.2
+    - keyword: "logistic regression"
+      weight: 0.1
+    - keyword: "basic cnn"
+      weight: 0.2
+    - keyword: "generic classification"
+      weight: 0.1
+
+# Major AI venues (for venue quality scoring)
+ai_venues:
+  tier_1:
+    - "neurips"
+    - "nips"
+    - "icml"
+    - "iclr"
+  tier_2:
+    - "cvpr"
+    - "iccv"
+    - "eccv"
+    - "acl"
+    - "emnlp"
+    - "aaai"
+  tier_3:
+    - "ijcai"
+    - "mlsys"
+    - "jmlr"
+    - "tmlr"
+    - "naacl"
+    - "coling"
+  nature:
+    - "nature"
+    - "science"
+    - "nature machine intelligence"
+
+# Geopolitical priority keywords
+geopolitics:
+  high_priority_regions:
+    - "india-pakistan"
+    - "india-china"
+    - "india-us"
+    - "india-russia"
+    - "india-eu"
+    - "india-middle east"
+    - "us-china"
+    - "russia-ukraine"
+    - "israel"
+    - "gaza"
+    - "iran"
+    - "nato"
+    - "taiwan"
+
+  high_priority_events:
+    - "treaty"
+    - "sanction"
+    - "sanctions"
+    - "tariff"
+    - "tariffs"
+    - "trade war"
+    - "trade deal"
+    - "trade agreement"
+    - "military conflict"
+    - "military"
+    - "defense agreement"
+    - "diplomatic crisis"
+    - "election"
+    - "coup"
+    - "ceasefire"
+    - "peace deal"
+    - "invasion"
+    - "nuclear"
+    - "strategic"
+
+  noise_keywords:
+    - "internet reacts"
+    - "social media"
+    - "twitter reacts"
+    - "celebrity"
+    - "gossip"
+    - "outrage"
+    - "slams"
+    - "destroys"
+    - "epic"
+    - "you won't believe"
+    - "shocking"
+    - "clickbait"
+
+# Market event types
+markets:
+  high_priority:
+    - "federal reserve"
+    - "fed"
+    - "rbi"
+    - "reserve bank"
+    - "sebi"
+    - "ecb"
+    - "bank of japan"
+    - "interest rate"
+    - "rate cut"
+    - "rate hike"
+    - "cpi"
+    - "inflation"
+    - "gdp"
+    - "employment"
+    - "jobs data"
+    - "nonfarm"
+    - "union budget"
+    - "fiscal deficit"
+    - "treasury yield"
+    - "bond yield"
+    - "ipo"
+    - "merger"
+    - "acquisition"
+    - "fii"
+    - "dii"
+    - "nifty"
+    - "sensex"
+    - "s&p 500"
+    - "nasdaq"
+    - "dow jones"
+    - "crude oil"
+    - "gold"
+    - "rupee"
+    - "dollar"
+
+  noise_indicators:
+    - "top gainers"
+    - "top losers"
+    - "penny stocks"
+    - "multibagger"
+    - "tips"
+    - "calls"
+    - "intraday"
+    - "target price"
+
+# Technology event types
+technology:
+  major_events:
+    - "new product"
+    - "product launch"
+    - "new gpu"
+    - "new cpu"
+    - "new chip"
+    - "new processor"
+    - "ai accelerator"
+    - "new ai model"
+    - "foundation model"
+    - "new llm"
+    - "major release"
+    - "os release"
+    - "acquisition"
+    - "partnership"
+    - "strategic investment"
+    - "data center"
+    - "semiconductor"
+    - "manufacturing"
+    - "api release"
+    - "developer platform"
+    - "research breakthrough"
+    - "security vulnerability"
+    - "regulatory"
+
+  noise_indicators:
+    - "employee story"
+    - "corporate culture"
+    - "award"
+    - "celebrates"
+    - "achievement"
+    - "routine update"
+    - "minor fix"
+    - "bug fix"
+    - "promotional"
+    - "diversity"
+    - "sustainability report"
+    - "community event"
+
+# Category taxonomy for RSS feed
+categories:
+  - "AI Research"
+  - "LLM"
+  - "Agents"
+  - "RAG"
+  - "Multimodal"
+  - "Computer Vision"
+  - "NLP"
+  - "Generative AI"
+  - "AI Systems"
+  - "Geopolitics"
+  - "India"
+  - "World"
+  - "Defense"
+  - "Diplomacy"
+  - "Trade"
+  - "Indian Markets"
+  - "Global Markets"
+  - "Economy"
+  - "Central Banks"
+  - "Commodities"
+  - "Technology"
+  - "Semiconductors"
+  - "Cloud"
+  - "Hardware"
+  - "Software"
+  - "Product Launch"
+  - "Research"
+  - "Acquisition"
+  - "Partnership"
+
+# Companies to track
+tracked_companies:
+  - "nvidia"
+  - "apple"
+  - "google"
+  - "microsoft"
+  - "samsung"
+  - "meta"
+  - "amazon"
+  - "openai"
+  - "anthropic"
+  - "amd"
+  - "intel"
+  - "qualcomm"
+  - "tesla"
+  - "deepmind"
+  - "hugging face"
+  - "huggingface"

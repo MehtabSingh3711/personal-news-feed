@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Personal Intelligence</title>
+    <description>High-signal intelligence briefing: AI research, geopolitics, financial markets, and major technology announcements.</description>
+    <link>https://github.com</link>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Aug 2026 18:03:40 +0000</lastBuildDate>
+    <generator>PersonalIntelligenceEngine/1.0</generator>
+    <atom:link href="https://github.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[7.3] US Treasury yields fall as jobs report dashes hike bets</title>
+      <link>https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-fall-as-jobs-report-dashes-hike-bets/articleshow/133050815.cms</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Upcoming inflation data poses a challenge to the stock market&amp;#x27;s recent technology-driven surge. Analysts predict a rise in consumer prices, which might sway the Federal Reserve’s monetary policy. Meanwhile, easing geopolitical concerns and dipping oil prices have provided some reprieve to investors. Strong corporate earnings are exceeding forecasts, fostering a positive outlook for stocks, while fluctuations in yields and oil prices are being meticulously observed.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;7.3/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;Indian Markets / Global Markets / Economy / Central Banks / Commodities&lt;/p&gt;</description>
+      <guid isPermaLink="false">555694287a29b1fd943a6bb0a568ce75</guid>
+      <pubDate>Sat, 08 Aug 2026 05:13:14 +0000</pubDate>
+      <category>Indian Markets</category>
+      <category>Global Markets</category>
+      <category>Economy</category>
+      <category>Central Banks</category>
+      <category>Commodities</category>
+      <source url="https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-fall-as-jobs-report-dashes-hike-bets/articleshow/133050815.cms">ET Markets</source>
+    </item>
+    <item>
+      <title>[7.3] Passing the Clarity Act on digital assets is a matter of national security</title>
+      <link>https://www.ft.com/content/8b61001e-6d7c-4ca9-8c4b-853b4555f318</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;US stock markets opened higher on Friday after unexpected job losses. The S&amp;amp;P 500 and Nasdaq saw gains at the opening bell. This economic data raised doubts about a September interest rate hike. The Dow Jones Industrial Average experienced a slight decline at the open. Markets reacted to the latest employment figures released by the government.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;7.3/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;Global Markets / Economy / Central Banks&lt;/p&gt;
+&lt;h3&gt;SOURCES&lt;/h3&gt;&lt;p&gt;Financial Times Markets, ET Markets, Mint News, Economic Times Top Stories&lt;/p&gt;</description>
+      <guid isPermaLink="false">a74e79c614b3f4524be392ba374cdd45</guid>
+      <pubDate>Fri, 07 Aug 2026 11:30:06 +0000</pubDate>
+      <category>Global Markets</category>
+      <category>Economy</category>
+      <category>Central Banks</category>
+      <source url="https://www.ft.com/content/8b61001e-6d7c-4ca9-8c4b-853b4555f318">Financial Times Markets</source>
+    </item>
+    <item>
+      <title>[6.8] DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation</title>
+      <link>https://arxiv.org/abs/2608.06374</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an open problem. Existing methods have two main limitations. First, they underuse dynamics priors shared across diverse visual and interaction data, limiting cross-embodiment transfer. Second, they require extensive manual preprocessing to convert embodiment-specific actions into a common format. To overcome these limitations, we propose DyPES-VLA, a cross-embodiment VLA that learns shared Dynamics Priors and Embodiment-Specific control. First, we learn shared dynamics priors by training the vision-language model (VLM) with a future-prediction objective on cross-embodiment data, driving the shared query representation to capture object motion, contact, and interaction-induced scene changes. Second, an embodiment-specific Mixture-of-Experts (MoE) action head translates these shared dynamics priors into executab...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.8/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Multimodal&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 18 upvotes&lt;/p&gt;</description>
+      <guid isPermaLink="false">90b215b3ba552ffeca2869dfa28ce2bf</guid>
+      <pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>Multimodal</category>
+      <source url="https://arxiv.org/abs/2608.06374">HuggingFace Daily Papers</source>
+    </item>
+    <item>
+      <title>[6.6] Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval</title>
+      <link>https://arxiv.org/abs/2608.06060</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Unified multimodal retrieval aims to identify candidates that satisfy complex user intent expressed through heterogeneous inputs. Although Large Vision-Language Model (LVLM)-based retrievers are efficient and scalable, directly encoding raw multimodal inputs often misses fine-grained discriminative cues, leading to confusion among semantically similar candidates. Recent methods mitigate this limitation by generating Chain-of-Thought (CoT) rationales to enrich the query representation. However, such reasoning is typically derived from the query alone: it explains what the query describes, but not what the retriever misunderstands. We argue that effective retrieval reasoning should instead be conditioned on retrieval feedback. Based on this insight, we introduce UniME-R1, an embedder-adviser framework that learns to reason over initially retrieved candidates and generate Retrieval-Centric Chain-of-Thought (RC-CoT). The adviser analyzes candidates individually to identify the discrimin...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Multimodal&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 30 upvotes&lt;/p&gt;</description>
+      <guid isPermaLink="false">c1715fc27977c779647ab9981f8bd090</guid>
+      <pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>Multimodal</category>
+      <source url="https://arxiv.org/abs/2608.06060">HuggingFace Daily Papers</source>
+    </item>
+    <item>
+      <title>[6.5] EffectLearner: World-Aware Object-Effect Reasoning for Real-World Video Object Removal</title>
+      <link>https://arxiv.org/abs/2608.05565</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Video object removal must eliminate not only the target object but also its induced effects while maintaining high-fidelity and spatiotemporally coherent restoration. Existing methods mainly learn object-effect correspondences implicitly from predefined effect categories and fixed data distributions, limiting their generalization to complex real-world scenes involving compositional effects, spatially detached or weakly correlated effects, long-tail physical phenomena, and dynamically evolving interactions. We propose EffectLearner, a semantic-reasoning-enhanced framework that combines a VLM-based Object-Effect Reasoner with a DiT-based Video Eraser. Guided by a structured effect-analysis prompt, the Reasoner performs cross-modal reasoning over a target-highlighted video and extracts compact effect-aware context, which guides the Video Eraser toward comprehensive object-effect removal. Motion-aware mask guidance and motion-consistency supervision further improve removal coverage and ...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.5/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / RAG / Multimodal&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 16 upvotes&lt;/p&gt;</description>
+      <guid isPermaLink="false">22fa477fbd02670cb0814b106c956aba</guid>
+      <pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>RAG</category>
+      <category>Multimodal</category>
+      <source url="https://arxiv.org/abs/2608.05565">HuggingFace Daily Papers</source>
+    </item>
+    <item>
+      <title>[6.4] FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds</title>
+      <link>https://arxiv.org/abs/2608.01049</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Architectures (JEPA) offer a particularly compelling direction. We study a largely unexplored regime: populous, crowded, and chaotic Global South urban environments, which we call DENSEWORLD. Unlike the lower-density, lane-structured settings that dominate existing evaluations, these scenes exhibit soft spatial boundaries, extreme agent heterogeneity, persistent occlusion, and rapid social negotiation under mixed traffic. We introduce the first large-scale dataset for this regime: 1,000 hours of drive-through, walk-through, and aerial video across 22 cities. Existing JEPA formulations struggle to preserve dense interaction dynamics under heterogeneity and partial observability. We introduce FactorJEPA, which makes world structure a first-class predictive primitive. Rather than encoding ...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.4/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Agents&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 5 upvotes&lt;/p&gt;</description>
+      <guid isPermaLink="false">23ad9e5323b8a2b6d257dda036cdb945</guid>
+      <pubDate>Sat, 01 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>Agents</category>
+      <source url="https://arxiv.org/abs/2608.01049">HuggingFace Daily Papers</source>
+    </item>
+    <item>
+      <title>[6.4] Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming</title>
+      <link>https://arxiv.org/abs/2608.05108</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Prompt injection poses significant security risks to LLM agents. Efficient and effective red-teaming is therefore critical, both for evaluating these risks and for collecting training data to improve defenses. Existing state-of-the-art prompt injection red-teaming methods primarily rely on reinforcement learning (RL), producing attacker models that often generalize poorly to new target LLMs. In this work, we develop PIMiner, an agentic system for prompt injection red-teaming. During training, PIMiner is trained on a sequence of (dataset, target model) pairs and builds a strategy library from scratch. At test time, the learned strategy library can be directly transferred to a previously unseen target LLM without additional training. PIMiner requires only a small number of queries to a target agent (e.g., 10) per test sample. Experimental results demonstrate that PIMiner achieves strong performance. On IPIArena, it attains a 76.2% ASR against Gemini-2.5-Pro, 61.9% ASR against GPT-5.1,...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.4/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM / Agents&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 6 upvotes&lt;/p&gt;</description>
+      <guid isPermaLink="false">d53324569a1e8b80c8df9ec020e48903</guid>
+      <pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>LLM</category>
+      <category>Agents</category>
+      <source url="https://arxiv.org/abs/2608.05108">HuggingFace Daily Papers</source>
+    </item>
+    <item>
+      <title>[6.3] Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains</title>
+      <link>https://arxiv.org/abs/2608.05138</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Modern Greek is absent from NVIDIA&amp;#x27;s Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, financial, and medical applications. We present an end-to-end adaptation of the Nemotron retrieval stack for Modern Greek, including corpus mining, synthetic supervision, retrieval model training, reranker adaptation, reader fine-tuning, and a new benchmark called HERA. Our study shows that a parameter-free BM25 baseline outperforms several off-the-shelf multilingual dense retrieval models on specialist Greek corpora. After fine-tuning on 65,773 Greek retrieval pairs, a Nemotron 1B embedder improves nDCG@10 from 0.362 to 0.835 and substantially outperforms its unadapted counterpart. The learned language competence transfers to general-domain Greek, although the advantage over BM25 remains domain-dependent. We further adapt a cross-encoder reranker and demonstrate consistent improvements acr...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / RAG / Technology&lt;/p&gt;
+&lt;h3&gt;SOURCES&lt;/h3&gt;&lt;p&gt;HuggingFace Daily Papers, HuggingFace Daily Papers RSS, HuggingFace Blog&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 23 upvotes&lt;/p&gt;</description>
+      <guid isPermaLink="false">06bc62e1fde915ae345550b7ea5a7405</guid>
+      <pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>RAG</category>
+      <category>Technology</category>
+      <source url="https://arxiv.org/abs/2608.05138">HuggingFace Daily Papers</source>
+    </item>
+    <item>
+      <title>[6.3] PaDoc: Layout-Grounded Parallel Decoding for Document Parsing</title>
+      <link>https://arxiv.org/abs/2608.06146</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;End-to-end document parsers provide a unified interface, but serialize page layouts and regional contents into one autoregressive sequence. This formulation forces independent regions onto a decoding path whose length grows with the total content, whereas crop-based two-stage parsers expose region-level parallelism at the cost of repeated visual prefills and fragmented page context. To retain full-page context while removing dependencies, we propose PaDoc, a layout-grounded parser that treats the predicted layout as a branching structure over a shared page representation. Under a region-sufficiency assumption, we derive a prefix-conditioned factorization in which the layout stream and regional content branches advance concurrently, reducing the decoding depth to the longest layout-content path. We realize this factorization within a single MLLM: packed variable-length ancestor attention preserves the visibility under standard next-token training, while masked parallel decoding creat...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM / RAG&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 14 upvotes&lt;/p&gt;</description>
+      <guid isPermaLink="false">67172fe720528e88edb0d920017f584b</guid>
+      <pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>LLM</category>
+      <category>RAG</category>
+      <source url="https://arxiv.org/abs/2608.06146">HuggingFace Daily Papers</source>
+    </item>
+    <item>
+      <title>[6.3] Towards a quantum computer that learns from its errors</title>
+      <link>https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Tsallis statistics generalizes Boltzmann-Gibbs statistical mechanics through a single real parameter $q$ that controls the weight assigned to rare and frequent events. Originally proposed to describe physical systems with long-range correlations, multifractal geometry, and heavy-tailed fluctuations, the framework has become a recurring ingredient in modern artificial intelligence (AI): it underlies sparse attention mechanisms (\textsc{sparsemax} and $α$-\textsc{entmax}), maximum-entropy reinforcement learning with controllable exploration, robust and heavy-tailed probabilistic models, and a family of generalized loss functions and regularizers. This paper offers a structured perspective on where Tsallis statistics meets AI. We first review the mathematical core: $q$-entropy and its variational (maximum-entropy) foundation, the $q$-exponential and $q$-logarithm, the $q$-central limit theorem, $q$-Gaussian distributions, and their dynamical origin in superstatistics, emphasizing the p...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;Machine Intelligence / Quantum / AI Research / Research / Technology&lt;/p&gt;
+&lt;h3&gt;SOURCES&lt;/h3&gt;&lt;p&gt;Google Research Blog, DeepMind Blog, HuggingFace Daily Papers RSS, OpenAI Blog, HuggingFace Blog&lt;/p&gt;</description>
+      <guid isPermaLink="false">e6d40de049c53b834ceac6403dcf62c5</guid>
+      <pubDate>Wed, 22 Jul 2026 13:10:21 +0000</pubDate>
+      <category>Machine Intelligence</category>
+      <category>Quantum</category>
+      <category>AI Research</category>
+      <category>Research</category>
+      <category>Technology</category>
+      <source url="https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors">Google Research Blog</source>
+    </item>
+    <item>
+      <title>[6.2] EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning</title>
+      <link>https://arxiv.org/abs/2608.06197</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Training large language model agents for long-horizon tool use typically relies on interactions with real or synthesized executable environments, whose construction and verification are costly, or on external simulators that are difficult to ground. We introduce EnvACE, an agentic reinforcement learning method that replaces external environment interaction during training with world rehearsal. The policy alternates between acting and rehearsal: it first generates a tool call, then plays the role of the environment to produce the response induced by that action, and conditions subsequent decisions on the rehearsed response. Both roles are jointly optimized end-to-end using task-success rewards. Through world rehearsal, the policy internalizes the relationship between actions and their environment responses in its parameters, yielding an agent world model that directly supports decision making. Across BFCL-v4, tau^2-Bench, VitaBench, and FinMCP-Bench, EnvACE achieves strong and transf...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.2/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM / Agents&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 33 upvotes&lt;/p&gt;</description>
+      <guid isPermaLink="false">1397ad6f5cd93be276b15fe451b26952</guid>
+      <pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>LLM</category>
+      <category>Agents</category>
+      <source url="https://arxiv.org/abs/2608.06197">HuggingFace Daily Papers</source>
+    </item>
+    <item>
+      <title>[6.2] ChronoVision: Temporal Reasoning via Latent State Reconstruction</title>
+      <link>https://arxiv.org/abs/2608.05631</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Multimodal large language models excel at passive perception but struggle with complex visual cognitive tasks requiring multi-step temporal reasoning. This degradation largely stems from the inherent ambiguity of language-based reasoning, which often fails to accurately articulate continuous visual transformations. To address this, we propose ChronoVision, a multimodal framework designed to align visual logic with latent imagery. During supervised fine-tuning, a Reconstructive Visual Head predicts the latent representation of the final transformed state, while an ROI Attention Locating module focuses the model on key visual evidence via semantic span queries. In post-training, we apply reinforcement learning with an implicit process grounding mechanism, guided by a composite reward function that evaluates outcome correctness, latent process alignment, and unsupervised visual focus. Furthermore, we introduce Vbvr-VQA, a novel dataset that evaluates temporal tracking by reformulating ...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.2/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM / Multimodal&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 32 upvotes&lt;/p&gt;</description>
+      <guid isPermaLink="false">6bfb9136e9034af4284f2c6b10bfba2b</guid>
+      <pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>LLM</category>
+      <category>Multimodal</category>
+      <source url="https://arxiv.org/abs/2608.05631">HuggingFace Daily Papers</source>
+    </item>
+    <item>
+      <title>[6.1] SkillHEX: Improving Agent Skills via Hypothesis-Driven Autonomous Exploration and Exploitation</title>
+      <link>https://tldr.takara.ai/p/2608.05628</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Although agent skills equip LLMs with reusable procedural knowledge, manual maintenance suffers from high costs, unscalability, and misalignment. Real-world deployments thus require autonomous, on-demand skill evolution at test time, constrained by limited interaction budgets and a lack of training or validation sets. This setting introduces a severe sparse reward challenge, where outcomes conflate multiple latent failure causes. Under such ambiguity, existing methods that greedily refine a single incumbent skill are particularly vulnerable to an exploitation trap, allowing early misdiagnoses to exhaust limited trials along unproductive trajectories. To address this, we introduce SkillHEX, a closed-loop framework coupling hypothesis-driven self-verification with evidence-guided tree search. SkillHEX translates falsifiable failure hypotheses into executable tests, producing diagnostic evidence as dense reward without additional environment attempts. This evidence guides a search over...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.1/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM / Agents&lt;/p&gt;</description>
+      <guid isPermaLink="false">60ed8d2c45c616903cbc6aae80dc1ac5</guid>
+      <pubDate>Thu, 06 Aug 2026 00:21:02 +0000</pubDate>
+      <category>AI Research</category>
+      <category>LLM</category>
+      <category>Agents</category>
+      <source url="https://tldr.takara.ai/p/2608.05628">HuggingFace Daily Papers RSS</source>
+    </item>
+    <item>
+      <title>[6.1] MASS: Multiplayer World Models with Authoritative Shared State</title>
+      <link>https://arxiv.org/abs/2608.06257</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Current video world models struggle in multiplayer environments because they entangle world state with view-dependent visual latents, leading to redundant compute, view inconsistencies, and poor scalability. We propose MAS (Multiplayer world models with Authoritative Shared State) to resolve this limitation. Inspired by multiplayer game architectures, MAS disentangles world dynamics and view rendering. A learned Logic Engine advances a global, authoritative typed state from joint actions without any hand-written transition function, acting as the sole recurrent memory and synchronization reference. From this shared state, a learned Rendering Engine generates independent and consistent views for any requested camera on demand. This explicit disentangling allows MAS to achieve superior state accuracy and lower cross-view inconsistency compared to state-of-the-art multi-view baselines on a matched multiplayer Snake benchmark. It advances predicted worlds with 1,024 concurrent players f...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.1/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Research&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 8 upvotes&lt;/p&gt;</description>
+      <guid isPermaLink="false">8178c6417ff479f53a08c6f344b50313</guid>
+      <pubDate>Wed, 05 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>Research</category>
+      <source url="https://arxiv.org/abs/2608.06257">HuggingFace Daily Papers</source>
+    </item>
+    <item>
+      <title>[6.1] SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding</title>
+      <link>https://arxiv.org/abs/2608.05137</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Understanding 3D scenes is fundamental to embodied intelligence, requiring joint reasoning over heterogeneous information from multiple modalities, including visual and geometric cues. However, the relevance of these modalities often varies across queries. Existing Multimodal Large Language Models (MLLMs) typically rely on fixed modality combinations, overlooking query-dependent modality needs. Such a rigid design can introduce semantic noise from irrelevant modalities while underutilizing more informative ones, leading to wasted computation and diluted reasoning. To address these challenges, this paper proposes SmartMage, a unified MLLM that dynamically orchestrates heterogeneous modalities for semantic-aware 3D scene understanding. Specifically, SmartMage incorporates: (1) a Semantic-guided Modality Adaptive RouTng (SMART) module that selects task-relevant modalities using semantic priors, text-modality alignment, and modality quality; and (2) a Modality-Aware Gating Expert (MAGE)...&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.1/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM / Multimodal / Technology&lt;/p&gt;
+&lt;h3&gt;SOURCES&lt;/h3&gt;&lt;p&gt;HuggingFace Daily Papers, HuggingFace Daily Papers RSS&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 37 upvotes&lt;/p&gt;</description>
+      <guid isPermaLink="false">104c5eff48b5c3d273b4560a4aea76e4</guid>
+      <pubDate>Tue, 04 Aug 2026 20:00:00 +0000</pubDate>
+      <category>AI Research</category>
+      <category>LLM</category>
+      <category>Multimodal</category>
+      <category>Technology</category>
+      <source url="https://arxiv.org/abs/2608.05137">HuggingFace Daily Papers</source>
+    </item>
+    <item>
+      <title>[6.1] Gold hits seven-week high as weak U.S. jobs data dents rate hike bets</title>
+      <link>https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Gold prices reached a seven-week high on Friday owing to surprising job losses in the United States that lowered the likelihood of upcoming rate hikes. This trend puts gold on track for its best weekly gain in seven months, as reduced interest rates boost its allure over yield-producing investments. Additionally, silver and platinum prices witnessed notable rises.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.1/10&lt;/strong&gt; — 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;Global Markets / Economy / Central Banks / Commodities&lt;/p&gt;</description>
+      <guid isPermaLink="false">04b6003c33933437c871f027c8d6d64e</guid>
+      <pubDate>Fri, 07 Aug 2026 10:25:36 +0000</pubDate>
+      <category>Global Markets</category>
+      <category>Economy</category>
+      <category>Central Banks</category>
+      <category>Commodities</category>
+      <source url="https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms">ET Markets</source>
+    </item>
+  </channel>
+</rss>
