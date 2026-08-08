@@ -58,13 +58,18 @@ The pipeline works 100% deterministically without API keys. However, if you want
 
 ---
 
-## Step 4: Your Live GitHub Pages Feed URL
+## Step 4: Your Live GitHub Pages Feed URLs
 
-Your GitHub Pages deployment is **SUCCESSFUL** and live at:
+Your GitHub Pages deployment is **SUCCESSFUL** and live. You can subscribe to the master feed or any category-specific feeds in **NetNewsWire / Reeder**:
 
-```text
-https://mehtabsingh3711.github.io/personal-news-feed/feed.xml
-```
+| Feed Type | URL | Description |
+|-----------|-----|-------------|
+| **Master Feed** | [`https://mehtabsingh3711.github.io/personal-news-feed/feed.xml`](https://mehtabsingh3711.github.io/personal-news-feed/feed.xml) | Complete intelligence briefing across all domains |
+| **AI Research** | [`https://mehtabsingh3711.github.io/personal-news-feed/ai.xml`](https://mehtabsingh3711.github.io/personal-news-feed/ai.xml) | AI papers, LLM, Agents, RAG, Multimodal |
+| **Geopolitics** | [`https://mehtabsingh3711.github.io/personal-news-feed/geopolitics.xml`](https://mehtabsingh3711.github.io/personal-news-feed/geopolitics.xml) | World developments, trade, strategic news |
+| **Markets** | [`https://mehtabsingh3711.github.io/personal-news-feed/markets.xml`](https://mehtabsingh3711.github.io/personal-news-feed/markets.xml) | Central banks, rate decisions, market reports |
+| **Technology** | [`https://mehtabsingh3711.github.io/personal-news-feed/technology.xml`](https://mehtabsingh3711.github.io/personal-news-feed/technology.xml) | Hardware, semiconductors, major announcements |
+| **GitHub** | [`https://mehtabsingh3711.github.io/personal-news-feed/github.xml`](https://mehtabsingh3711.github.io/personal-news-feed/github.xml) | Trending & high-growth AI repositories |
 
 ---
 
@@ -73,20 +78,17 @@ https://mehtabsingh3711.github.io/personal-news-feed/feed.xml
 1. In your GitHub repository, click on the **Actions** tab.
 2. Select **Update Intelligence Feed** from the left sidebar.
 3. Click **Run workflow** → **Run workflow**.
-4. The workflow will run, ingest all 25+ live sources, remove noise/duplicates, score events, and push an updated `feed.xml` back to your repo.
+4. The workflow will run, ingest all 30+ live sources, remove noise/duplicates, score events, and push updated `.xml` feeds back to your repo.
 5. Going forward, GitHub Actions will automatically run this workflow **every 6 hours**.
 
 ---
 
-## Step 6: Subscribe in Reeder on iPhone
+## Step 6: Subscribe in NetNewsWire / Reeder on iPhone
 
-1. Copy your live feed URL:
-   ```text
-   https://mehtabsingh3711.github.io/personal-news-feed/feed.xml
-   ```
-2. Open **Reeder** on your iPhone.
+1. Copy your desired live feed URL (e.g., `https://mehtabsingh3711.github.io/personal-news-feed/feed.xml`).
+2. Open **NetNewsWire** or **Reeder** on your iPhone.
 3. Tap **+** (Add Feed / Subscription).
-4. Paste the URL above.
+4. Paste the feed URL.
 5. Tap **Add**.
 
 ---
