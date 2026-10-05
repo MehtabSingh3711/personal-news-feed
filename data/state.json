@@ -4,8 +4,8 @@
     "title": "ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and ...",
     "url": "https://github.com/affaan-m/ECC",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-10-04T20:47:10.767439+00:00",
-    "score": 6.065927860201793,
+    "last_seen": "2026-10-05T03:34:04.724156+00:00",
+    "score": 6.027135020179274,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T00:11:29+00:00"
@@ -37,8 +37,8 @@
     "title": "ollama: Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o...",
     "url": "https://github.com/ollama/ollama",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-10-04T20:47:10.767259+00:00",
-    "score": 6.65,
+    "last_seen": "2026-10-05T03:34:04.724063+00:00",
+    "score": 6.335,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T05:04:18+00:00"
@@ -48,8 +48,8 @@
     "title": "prompts.chat: f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the commu...",
     "url": "https://github.com/f/prompts.chat",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-10-04T20:47:10.767385+00:00",
-    "score": 6.293125479623624,
+    "last_seen": "2026-10-05T03:34:04.724125+00:00",
+    "score": 6.233142328178071,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T03:33:46+00:00"
@@ -59,8 +59,8 @@
     "title": "transformers: \ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learnin...",
     "url": "https://github.com/huggingface/transformers",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-10-04T20:47:10.767265+00:00",
-    "score": 6.65,
+    "last_seen": "2026-10-05T03:34:04.724067+00:00",
+    "score": 6.095000000000001,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T18:25:14+00:00"
@@ -70,8 +70,8 @@
     "title": "firecrawl: The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
     "url": "https://github.com/firecrawl/firecrawl",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-10-04T11:40:00.896207+00:00",
-    "score": 6.504499095072591,
+    "last_seen": "2026-10-05T03:34:04.724093+00:00",
+    "score": 6.56041482741371,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T13:05:35+00:00"
@@ -92,8 +92,8 @@
     "title": "open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
     "url": "https://github.com/open-webui/open-webui",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-10-04T20:47:10.767370+00:00",
-    "score": 6.340204100695756,
+    "last_seen": "2026-10-05T03:34:04.724071+00:00",
+    "score": 6.635,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-07T07:24:21+00:00"
@@ -114,8 +114,8 @@
     "title": "browser-use: \ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
     "url": "https://github.com/browser-use/browser-use",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-04T20:47:10.767401+00:00",
-    "score": 6.155470837848649,
+    "last_seen": "2026-10-05T03:34:04.724136+00:00",
+    "score": 6.168742352088701,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-06T18:27:59+00:00"
@@ -125,8 +125,8 @@
     "title": "graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable know...",
     "url": "https://github.com/Graphify-Labs/graphify",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-04T20:47:10.767271+00:00",
-    "score": 6.65,
+    "last_seen": "2026-10-05T03:34:04.724087+00:00",
+    "score": 6.5740776054327315,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-07T21:58:19+00:00"
@@ -136,8 +136,8 @@
     "title": "MoneyPrinterTurbo: \u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or ke...",
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-04T20:47:10.767344+00:00",
-    "score": 6.541212804943457,
+    "last_seen": "2026-10-05T03:34:04.724099+00:00",
+    "score": 6.4580909970707,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-07T04:44:30+00:00"
@@ -213,7 +213,7 @@
     "title": "strix: Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
     "url": "https://github.com/usestrix/strix",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-04T20:47:10.767304+00:00",
+    "last_seen": "2026-10-05T03:34:04.724075+00:00",
     "score": 6.455,
     "classification": "worth_knowing",
     "cluster_id": null,
@@ -224,8 +224,8 @@
     "title": "LocalAI: LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video ...",
     "url": "https://github.com/mudler/LocalAI",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-04T20:47:10.767312+00:00",
-    "score": 6.635,
+    "last_seen": "2026-10-05T03:34:04.724078+00:00",
+    "score": 6.335,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T06:23:40+00:00"
@@ -246,8 +246,8 @@
     "title": "claude-mem: Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent ...",
     "url": "https://github.com/thedotmack/claude-mem",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-04T20:47:10.767330+00:00",
-    "score": 6.321305399571568,
+    "last_seen": "2026-10-05T03:34:04.724081+00:00",
+    "score": 6.755000000000001,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T13:27:35+00:00"
@@ -257,8 +257,8 @@
     "title": "ragflow: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses ...",
     "url": "https://github.com/infiniflow/ragflow",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-04T03:49:19.747833+00:00",
-    "score": 6.567709979768827,
+    "last_seen": "2026-10-05T03:34:04.724096+00:00",
+    "score": 6.557833483564024,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T13:21:23+00:00"
@@ -279,8 +279,8 @@
     "title": "headroom: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer...",
     "url": "https://github.com/headroomlabs-ai/headroom",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-04T20:47:10.767355+00:00",
-    "score": 6.427114268307829,
+    "last_seen": "2026-10-05T03:34:04.724084+00:00",
+    "score": 6.755000000000001,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T16:23:25+00:00"
@@ -334,8 +334,8 @@
     "title": "langgraph: Build resilient agents.",
     "url": "https://github.com/langchain-ai/langgraph",
     "first_seen": "2026-08-13T12:57:02.935576+00:00",
-    "last_seen": "2026-10-04T20:47:10.767350+00:00",
-    "score": 6.474566135177228,
+    "last_seen": "2026-10-05T03:34:04.724102+00:00",
+    "score": 6.397660341731347,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-12T20:03:25+00:00"
@@ -461,39 +461,6 @@
     "cluster_id": null,
     "published_date": "2026-09-02T20:00:00+00:00"
   },
-  "9dd14794b8ebea61": {
-    "item_id": "9dd14794b8ebea61",
-    "title": "Gold prices fall Rs 2,100/10 gram after 2 days; silver down Rs 1,500/kg ahead of US payrolls data. Important levels for today",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-rs-2100/10-gram-after-2-days-silver-down-rs-1500/kg-ahead-of-us-payrolls-data-important-levels-for-today/articleshow/133752723.cms",
-    "first_seen": "2026-09-04T10:25:18.600716+00:00",
-    "last_seen": "2026-09-05T02:29:47.583910+00:00",
-    "score": 6.471471577500311,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-09-04T05:20:28+00:00"
-  },
-  "c13650fc9ccd04c3": {
-    "item_id": "c13650fc9ccd04c3",
-    "title": "MetaStructAtlas: A Grounded 3D Vision-Language Dataset and Benchmark for Functional and Structural Reasoning in Whole-Body PET/CT",
-    "url": "https://tldr.takara.ai/p/2609.03690",
-    "first_seen": "2026-09-04T10:25:18.600726+00:00",
-    "last_seen": "2026-09-05T02:29:47.583987+00:00",
-    "score": 6.620671045719688,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-09-03T11:27:22+00:00"
-  },
-  "eb2aec928812d90b": {
-    "item_id": "eb2aec928812d90b",
-    "title": "From Prior-Guided Heuristics to Deployable Agents: Accelerating Demonstration-Driven Reinforcement Learning for Deadline-Constrained Network Control",
-    "url": "https://tldr.takara.ai/p/2609.03590",
-    "first_seen": "2026-09-04T10:25:18.600735+00:00",
-    "last_seen": "2026-09-05T02:29:47.583993+00:00",
-    "score": 6.604395157722048,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-09-03T09:36:56+00:00"
-  },
   "fa89c83b31cca960": {
     "item_id": "fa89c83b31cca960",
     "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
@@ -504,17 +471,6 @@
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-02T20:00:00+00:00"
-  },
-  "377293e8db65d264": {
-    "item_id": "377293e8db65d264",
-    "title": "Yen surges as traders bet on Japan interest rate rises",
-    "url": "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1",
-    "first_seen": "2026-09-04T10:25:18.600851+00:00",
-    "last_seen": "2026-09-05T02:29:47.584037+00:00",
-    "score": 6.404317336748762,
-    "classification": "worth_knowing",
-    "cluster_id": "cluster_markets_8",
-    "published_date": "2026-09-03T12:57:45+00:00"
   },
   "b1cf303d75804a18": {
     "item_id": "b1cf303d75804a18",
@@ -549,28 +505,6 @@
     "cluster_id": null,
     "published_date": "2026-09-02T20:00:00+00:00"
   },
-  "d09fbe5ee0abc571": {
-    "item_id": "d09fbe5ee0abc571",
-    "title": "Persistent Identity Preservation in Generative Image Models: A Benchmark and Evaluation System",
-    "url": "https://tldr.takara.ai/p/2609.04151",
-    "first_seen": "2026-09-04T10:25:18.600901+00:00",
-    "last_seen": "2026-09-05T02:29:47.584095+00:00",
-    "score": 6.079616645071373,
-    "classification": "worth_knowing",
-    "cluster_id": "cluster_ai_research_67",
-    "published_date": "2026-09-03T17:44:25+00:00"
-  },
-  "d5c7dc3ea46fe713": {
-    "item_id": "d5c7dc3ea46fe713",
-    "title": "Global Market: Bank of England\u2019s Pill says early rate hike could limit future inflation pressure",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bank-of-englands-pill-says-early-rate-hike-could-limit-future-inflation-pressure/articleshow/133758101.cms",
-    "first_seen": "2026-09-04T15:43:51.041374+00:00",
-    "last_seen": "2026-09-05T02:29:47.583867+00:00",
-    "score": 7.521748174682469,
-    "classification": "worth_knowing",
-    "cluster_id": "cluster_markets_111",
-    "published_date": "2026-09-04T09:22:39+00:00"
-  },
   "054bc6c0ccfe065a": {
     "item_id": "054bc6c0ccfe065a",
     "title": "Last Translation Benchmark",
@@ -582,17 +516,6 @@
     "cluster_id": "cluster_ai_research_1",
     "published_date": "2026-09-02T20:00:00+00:00"
   },
-  "2e4853c70cb28c8e": {
-    "item_id": "2e4853c70cb28c8e",
-    "title": "Strong jobs report fuels Fed rate hike prospects as Trump escalates rate cut pressure",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/strong-jobs-report-puts-fed-rate-hike-back-in-focus-as-trump-escalates-pressure/articleshow/133772770.cms",
-    "first_seen": "2026-09-04T20:12:56.395824+00:00",
-    "last_seen": "2026-09-05T02:29:47.583844+00:00",
-    "score": 7.739697148934244,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-09-04T17:31:48+00:00"
-  },
   "cd040250f6259c52": {
     "item_id": "cd040250f6259c52",
     "title": "Global Market: German bond yields set for fourth weekly rise as investors bet on further ECB tightening",
@@ -603,17 +526,6 @@
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-04T10:51:54+00:00"
-  },
-  "c8cfd38adae6754f": {
-    "item_id": "c8cfd38adae6754f",
-    "title": "US stocks today: US stocks end lower as solid jobs data fuels hawkish Fed bets",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-solid-jobs-data-fuels-hawkish-fed-bets/articleshow/133777456.cms",
-    "first_seen": "2026-09-05T02:29:47.583883+00:00",
-    "last_seen": "2026-09-05T02:29:47.583883+00:00",
-    "score": 7.254757355201717,
-    "classification": "worth_knowing",
-    "cluster_id": "cluster_markets_72",
-    "published_date": "2026-09-04T20:04:15+00:00"
   },
   "c39c1af5300a15aa": {
     "item_id": "c39c1af5300a15aa",
@@ -636,28 +548,6 @@
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-03T17:22:33+00:00"
-  },
-  "54d8323ffb4c172f": {
-    "item_id": "54d8323ffb4c172f",
-    "title": "A Blind Trust, the Bloody Thrust: When Attacker-Controlled Hook Updates Steer AI Agent Harnesses towards Malicious Behaviors",
-    "url": "https://tldr.takara.ai/p/2609.03884",
-    "first_seen": "2026-09-05T02:29:47.584084+00:00",
-    "last_seen": "2026-09-05T02:29:47.584084+00:00",
-    "score": 6.145239822443956,
-    "classification": "worth_knowing",
-    "cluster_id": "cluster_ai_research_66",
-    "published_date": "2026-09-03T14:08:42+00:00"
-  },
-  "6c3bab1ab8be9ad8": {
-    "item_id": "6c3bab1ab8be9ad8",
-    "title": "Masked Autoregressive Speech Enhancement with Continuous Neural Audio Codec Representations",
-    "url": "https://tldr.takara.ai/p/2609.03940",
-    "first_seen": "2026-09-05T02:29:47.584099+00:00",
-    "last_seen": "2026-09-05T02:29:47.584099+00:00",
-    "score": 6.051010125668579,
-    "classification": "worth_knowing",
-    "cluster_id": "cluster_ai_research_56",
-    "published_date": "2026-09-03T14:45:42+00:00"
   },
   "b44e71487a24b4bb": {
     "item_id": "b44e71487a24b4bb",
@@ -1709,8 +1599,8 @@
     "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
     "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients",
     "first_seen": "2026-09-11T02:32:10.623822+00:00",
-    "last_seen": "2026-10-04T20:47:10.767365+00:00",
-    "score": 6.361936776991143,
+    "last_seen": "2026-10-05T03:34:04.724105+00:00",
+    "score": 6.3672567287934925,
     "classification": "worth_knowing",
     "cluster_id": "cluster_ai_research_1600",
     "published_date": "2026-09-10T22:50:22+00:00"
@@ -4690,8 +4580,8 @@
     "title": "hindsight: Hindsight: Agent Memory That Learns",
     "url": "https://github.com/vectorize-io/hindsight",
     "first_seen": "2026-09-29T17:46:33.076609+00:00",
-    "last_seen": "2026-10-04T20:47:10.767422+00:00",
-    "score": 6.1718358257575865,
+    "last_seen": "2026-10-05T03:34:04.724142+00:00",
+    "score": 6.123165141242774,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-29T17:05:37+00:00"
@@ -5427,8 +5317,8 @@
     "title": "Generalization Is Stability, Not Accuracy: Multi-Axis Evaluation of LLMs",
     "url": "https://arxiv.org/abs/2610.01428",
     "first_seen": "2026-10-02T11:44:43.901675+00:00",
-    "last_seen": "2026-10-04T20:47:10.767380+00:00",
-    "score": 6.330253953719652,
+    "last_seen": "2026-10-05T03:34:04.724112+00:00",
+    "score": 6.305105057850771,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-30T20:00:00+00:00"
@@ -5438,8 +5328,8 @@
     "title": "EgoTools: Towards Tool-Centric Reasoning in Real-World Egocentric Videos",
     "url": "https://arxiv.org/abs/2609.39378",
     "first_seen": "2026-10-02T11:44:43.901716+00:00",
-    "last_seen": "2026-10-04T20:47:10.767396+00:00",
-    "score": 6.248234119613983,
+    "last_seen": "2026-10-05T03:34:04.724128+00:00",
+    "score": 6.230449856218349,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-29T20:00:00+00:00"
@@ -5449,8 +5339,8 @@
     "title": "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models",
     "url": "https://arxiv.org/abs/2609.37533",
     "first_seen": "2026-10-02T11:44:43.901740+00:00",
-    "last_seen": "2026-10-04T20:47:10.767407+00:00",
-    "score": 6.198699388067363,
+    "last_seen": "2026-10-05T03:34:04.724133+00:00",
+    "score": 6.1861230893533,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-28T20:00:00+00:00"
@@ -5460,8 +5350,8 @@
     "title": "Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models",
     "url": "https://arxiv.org/abs/2610.01942",
     "first_seen": "2026-10-02T11:44:43.901748+00:00",
-    "last_seen": "2026-10-04T20:47:10.767449+00:00",
-    "score": 6.04361055630105,
+    "last_seen": "2026-10-05T03:34:04.724159+00:00",
+    "score": 6.018461660415108,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-30T20:00:00+00:00"
@@ -5482,8 +5372,8 @@
     "title": "Architect-Ant: Editable Automatic Furnishing of Architectural Floor Plans",
     "url": "https://arxiv.org/abs/2606.10953",
     "first_seen": "2026-10-02T11:44:43.901769+00:00",
-    "last_seen": "2026-10-04T20:47:10.767412+00:00",
-    "score": 6.195377014732763,
+    "last_seen": "2026-10-05T03:34:04.724130+00:00",
+    "score": 6.195918185453088,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-29T20:00:00+00:00"
@@ -5548,8 +5438,8 @@
     "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
     "url": "https://arxiv.org/abs/2610.02202",
     "first_seen": "2026-10-02T17:16:07.918365+00:00",
-    "last_seen": "2026-10-04T20:47:10.767375+00:00",
-    "score": 6.330253955742897,
+    "last_seen": "2026-10-05T03:34:04.724108+00:00",
+    "score": 6.305105059664721,
     "classification": "worth_knowing",
     "cluster_id": "cluster_ai_research_2",
     "published_date": "2026-09-30T20:00:00+00:00"
@@ -5636,8 +5526,8 @@
     "title": "OmniReasoning: Pushing the Limits of Audio-Visual Joint Reasoning",
     "url": "https://tldr.takara.ai/p/2609.39490",
     "first_seen": "2026-10-03T15:34:42.528581+00:00",
-    "last_seen": "2026-10-04T20:47:10.767318+00:00",
-    "score": 6.7454068515892835,
+    "last_seen": "2026-10-05T03:34:04.724090+00:00",
+    "score": 6.614256647837835,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-30T10:51:24+00:00"
@@ -5647,8 +5537,8 @@
     "title": "SIEVE: Selective attention-value Suppression for Vision-Language Models Unlearning",
     "url": "https://tldr.takara.ai/p/2610.01962",
     "first_seen": "2026-10-03T15:34:42.528725+00:00",
-    "last_seen": "2026-10-04T20:47:10.767429+00:00",
-    "score": 6.1613700714765915,
+    "last_seen": "2026-10-05T03:34:04.724139+00:00",
+    "score": 6.127665738004284,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-10-01T16:16:53+00:00"
@@ -5658,8 +5548,8 @@
     "title": "Kinematic MeanFlow: One-Step Action Generation Policy for Robotic Foundation Models",
     "url": "https://tldr.takara.ai/p/2610.00864",
     "first_seen": "2026-10-03T15:34:42.528766+00:00",
-    "last_seen": "2026-10-04T20:47:10.767434+00:00",
-    "score": 6.087831602203071,
+    "last_seen": "2026-10-05T03:34:04.724150+00:00",
+    "score": 6.060986068900833,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-10-01T00:31:19+00:00"
@@ -5669,8 +5559,8 @@
     "title": "Learning from Research: Toward Lifelong Agent Harness Evolution",
     "url": "https://tldr.takara.ai/p/2609.40169",
     "first_seen": "2026-10-03T15:34:42.528784+00:00",
-    "last_seen": "2026-10-04T20:47:10.767444+00:00",
-    "score": 6.058250463547355,
+    "last_seen": "2026-10-05T03:34:04.724153+00:00",
+    "score": 6.034163909545097,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-30T17:00:38+00:00"
@@ -5696,5 +5586,71 @@
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-29T11:11:45+00:00"
+  },
+  "ac75a6d0bcfe88b6": {
+    "item_id": "ac75a6d0bcfe88b6",
+    "title": "India within reach of 8% growth: Ex-RBI guv",
+    "url": "https://economictimes.indiatimes.com/news/india/shaktikanta-das-pms-principal-secretary-2-says-india-within-striking-distance-of-8-growth/articleshow/134674598.cms",
+    "first_seen": "2026-10-05T03:34:04.724028+00:00",
+    "last_seen": "2026-10-05T03:34:04.724028+00:00",
+    "score": 7.729076061897494,
+    "classification": "worth_knowing",
+    "cluster_id": "cluster_markets_56",
+    "published_date": "2026-10-04T12:02:24+00:00"
+  },
+  "2b1cba8e0a8280e7": {
+    "item_id": "2b1cba8e0a8280e7",
+    "title": "Gold inches up as October Fed rate hike prospects fade",
+    "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-up-as-october-fed-rate-hike-prospects-fade/articleshow/134683767.cms",
+    "first_seen": "2026-10-05T03:34:04.724050+00:00",
+    "last_seen": "2026-10-05T03:34:04.724050+00:00",
+    "score": 7.259,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-10-05T01:56:32+00:00"
+  },
+  "21b87412a4818b06": {
+    "item_id": "21b87412a4818b06",
+    "title": "September IPO rush draws $1 billion FPI money even as listed stocks see record outflows",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/september-ipo-rush-draws-1-billion-fpi-money-even-as-listed-stocks-see-record-outflows/articleshow/134683037.cms",
+    "first_seen": "2026-10-05T03:34:04.724057+00:00",
+    "last_seen": "2026-10-05T03:34:04.724057+00:00",
+    "score": 6.769,
+    "classification": "worth_knowing",
+    "cluster_id": "cluster_markets_84",
+    "published_date": "2026-10-05T00:27:17+00:00"
+  },
+  "d6e40f3d1219fb7b": {
+    "item_id": "d6e40f3d1219fb7b",
+    "title": "Octrees as an Explicit 3D Language",
+    "url": "https://arxiv.org/abs/2610.02388",
+    "first_seen": "2026-10-05T03:34:04.724116+00:00",
+    "last_seen": "2026-10-05T03:34:04.724116+00:00",
+    "score": 6.294491730605214,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-09-30T20:00:00+00:00"
+  },
+  "6e8ebb7c9500fac3": {
+    "item_id": "6e8ebb7c9500fac3",
+    "title": "On-Policy Parameter Update Direction Underlies Generalization in LLM Post-Training",
+    "url": "https://arxiv.org/abs/2609.36659",
+    "first_seen": "2026-10-05T03:34:04.724120+00:00",
+    "last_seen": "2026-10-05T03:34:04.724120+00:00",
+    "score": 6.2589072571451565,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-09-28T20:00:00+00:00"
+  },
+  "9db8b1ec37c1766a": {
+    "item_id": "9db8b1ec37c1766a",
+    "title": "Dollar holds firm as French fiscal woes keep euro on back foot",
+    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-firm-as-french-fiscal-woes-keep-euro-on-back-foot/articleshow/134683809.cms",
+    "first_seen": "2026-10-05T03:34:04.724145+00:00",
+    "last_seen": "2026-10-05T03:34:04.724145+00:00",
+    "score": 6.07,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-10-05T01:59:24+00:00"
   }
 }
