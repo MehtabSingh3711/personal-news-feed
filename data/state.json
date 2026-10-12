@@ -4,7 +4,7 @@
     "title": "ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and ...",
     "url": "https://github.com/affaan-m/ECC",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-10-11T21:22:21.078526+00:00",
+    "last_seen": "2026-10-12T03:49:39.734587+00:00",
     "score": 6.455,
     "classification": "worth_knowing",
     "cluster_id": null,
@@ -37,8 +37,8 @@
     "title": "ollama: Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o...",
     "url": "https://github.com/ollama/ollama",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-10-11T21:22:21.078533+00:00",
-    "score": 6.335,
+    "last_seen": "2026-10-12T03:49:39.734632+00:00",
+    "score": 6.630989305482423,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T05:04:18+00:00"
@@ -59,8 +59,8 @@
     "title": "transformers: \ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learnin...",
     "url": "https://github.com/huggingface/transformers",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-10-11T21:22:21.078536+00:00",
-    "score": 6.095000000000001,
+    "last_seen": "2026-10-12T03:49:39.734593+00:00",
+    "score": 6.65,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T18:25:14+00:00"
@@ -92,8 +92,8 @@
     "title": "open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
     "url": "https://github.com/open-webui/open-webui",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-10-11T21:22:21.078539+00:00",
-    "score": 6.335,
+    "last_seen": "2026-10-12T03:49:39.734637+00:00",
+    "score": 6.600324084430453,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-07T07:24:21+00:00"
@@ -103,8 +103,8 @@
     "title": "langchain: The agent engineering platform.",
     "url": "https://github.com/langchain-ai/langchain",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-11T21:22:21.078562+00:00",
-    "score": 6.562433378032188,
+    "last_seen": "2026-10-12T03:49:39.734598+00:00",
+    "score": 6.65,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T10:53:48+00:00"
@@ -114,8 +114,8 @@
     "title": "browser-use: \ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
     "url": "https://github.com/browser-use/browser-use",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-11T21:22:21.078596+00:00",
-    "score": 6.166502981909178,
+    "last_seen": "2026-10-12T03:49:39.734687+00:00",
+    "score": 6.120542040224088,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-06T18:27:59+00:00"
@@ -125,8 +125,8 @@
     "title": "graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable know...",
     "url": "https://github.com/Graphify-Labs/graphify",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-11T21:22:21.078542+00:00",
-    "score": 6.755000000000001,
+    "last_seen": "2026-10-12T03:49:39.734628+00:00",
+    "score": 6.633904919273395,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-07T21:58:19+00:00"
@@ -136,8 +136,8 @@
     "title": "MoneyPrinterTurbo: \u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or ke...",
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-11T21:22:21.078591+00:00",
-    "score": 6.306400837325026,
+    "last_seen": "2026-10-12T03:49:39.734602+00:00",
+    "score": 6.455,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-07T04:44:30+00:00"
@@ -147,8 +147,8 @@
     "title": "ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the...",
     "url": "https://github.com/DietrichGebert/ponytail",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-11T21:22:21.078594+00:00",
-    "score": 6.252991558558826,
+    "last_seen": "2026-10-12T03:49:39.734677+00:00",
+    "score": 6.199334443668846,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-07T21:44:01+00:00"
@@ -180,8 +180,8 @@
     "title": "mem0: Universal memory layer for AI Agents",
     "url": "https://github.com/mem0ai/mem0",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-11T21:22:21.078605+00:00",
-    "score": 6.088674132671356,
+    "last_seen": "2026-10-12T03:49:39.734706+00:00",
+    "score": 6.0496387796788005,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-07T13:34:33+00:00"
@@ -213,8 +213,8 @@
     "title": "strix: Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
     "url": "https://github.com/usestrix/strix",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-11T21:22:21.078583+00:00",
-    "score": 6.45716545000394,
+    "last_seen": "2026-10-12T03:49:39.734657+00:00",
+    "score": 6.385339951478185,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-07T22:06:33+00:00"
@@ -224,7 +224,7 @@
     "title": "LocalAI: LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video ...",
     "url": "https://github.com/mudler/LocalAI",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-11T21:22:21.078548+00:00",
+    "last_seen": "2026-10-12T03:49:39.734613+00:00",
     "score": 6.335,
     "classification": "worth_knowing",
     "cluster_id": null,
@@ -246,8 +246,8 @@
     "title": "claude-mem: Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent ...",
     "url": "https://github.com/thedotmack/claude-mem",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-11T21:22:21.078559+00:00",
-    "score": 6.030327340515144,
+    "last_seen": "2026-10-12T03:49:39.734620+00:00",
+    "score": 6.65,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T13:27:35+00:00"
@@ -279,8 +279,8 @@
     "title": "headroom: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer...",
     "url": "https://github.com/headroomlabs-ai/headroom",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-10-11T21:22:21.078577+00:00",
-    "score": 6.489884072603857,
+    "last_seen": "2026-10-12T03:49:39.734653+00:00",
+    "score": 6.415147112351258,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T16:23:25+00:00"
@@ -290,8 +290,8 @@
     "title": "anything-llm: Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a ...",
     "url": "https://github.com/Mintplex-Labs/anything-llm",
     "first_seen": "2026-08-09T06:45:14.656075+00:00",
-    "last_seen": "2026-10-11T21:22:21.078599+00:00",
-    "score": 6.149683586639021,
+    "last_seen": "2026-10-12T03:49:39.734702+00:00",
+    "score": 6.105219316427692,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-07T23:30:24+00:00"
@@ -301,8 +301,8 @@
     "title": "ai-engineering-from-scratch: Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "first_seen": "2026-08-09T12:38:21.565741+00:00",
-    "last_seen": "2026-10-11T21:22:21.078568+00:00",
-    "score": 6.522752126442385,
+    "last_seen": "2026-10-12T03:49:39.734648+00:00",
+    "score": 6.445090407196214,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-09T12:05:09+00:00"
@@ -312,8 +312,8 @@
     "title": "JeecgBoot: \u3010\u4f4e\u4ee3\u7801\u8fc8\u5165v2.0\u65f6\u4ee3\uff0c\u4e00\u53e5\u8bdd\u5373\u53ef\u751f\u6210\u6574\u4e2a\u7cfb\u7edf\u3011\u4f01\u4e1a\u7ea7AI\u4f4e\u4ee3\u7801\u5e73\u53f0\uff0c\u4e00\u952e\u751f\u6210\u524d\u540e\u7aef\u4ee3\u7801\u751a\u81f3\u6574\u4e2a\u7cfb\u7edf\u3002 AI Skills \u4e00\u53e5\u8bdd\u753b\u6d41\u7a0b\u3001\u8bbe\u8ba1\u8868\u5355\u3001\u751f\u6210\u62a5\u8868\u3001\u5927\u5c4f\u3002\u5185\u7f6e ...",
     "url": "https://github.com/jeecgboot/JeecgBoot",
     "first_seen": "2026-08-10T07:20:14.447754+00:00",
-    "last_seen": "2026-09-25T20:59:45.543320+00:00",
-    "score": 6.000818900113654,
+    "last_seen": "2026-10-12T03:49:39.734624+00:00",
+    "score": 6.65,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-10T04:02:41+00:00"
@@ -334,8 +334,8 @@
     "title": "langgraph: Build resilient agents.",
     "url": "https://github.com/langchain-ai/langgraph",
     "first_seen": "2026-08-13T12:57:02.935576+00:00",
-    "last_seen": "2026-10-11T21:22:21.078552+00:00",
-    "score": 6.65,
+    "last_seen": "2026-10-12T03:49:39.734617+00:00",
+    "score": 6.635,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-12T20:03:25+00:00"
@@ -411,8 +411,8 @@
     "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
     "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients",
     "first_seen": "2026-09-11T02:32:10.623822+00:00",
-    "last_seen": "2026-10-11T21:22:21.078571+00:00",
-    "score": 6.509686014192037,
+    "last_seen": "2026-10-12T03:49:39.734672+00:00",
+    "score": 6.244653072167027,
     "classification": "worth_knowing",
     "cluster_id": "cluster_ai_research_1600",
     "published_date": "2026-09-10T22:50:22+00:00"
@@ -439,17 +439,6 @@
     "cluster_id": null,
     "published_date": "2026-09-10T17:53:15+00:00"
   },
-  "76bcf81fae700954": {
-    "item_id": "76bcf81fae700954",
-    "title": "ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding",
-    "url": "https://tldr.takara.ai/p/2609.11642",
-    "first_seen": "2026-09-11T10:27:53.098179+00:00",
-    "last_seen": "2026-09-12T02:41:04.947422+00:00",
-    "score": 6.149973909956046,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-09-10T14:49:54+00:00"
-  },
   "756215e967fc866d": {
     "item_id": "756215e967fc866d",
     "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
@@ -457,17 +446,6 @@
     "first_seen": "2026-09-11T10:27:53.098183+00:00",
     "last_seen": "2026-09-15T02:57:19.585533+00:00",
     "score": 6.116366501063327,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-09-09T20:00:00+00:00"
-  },
-  "0d1cd580e784a2ec": {
-    "item_id": "0d1cd580e784a2ec",
-    "title": "FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation",
-    "url": "https://arxiv.org/abs/2609.11486",
-    "first_seen": "2026-09-11T10:27:53.098191+00:00",
-    "last_seen": "2026-09-12T02:41:04.947434+00:00",
-    "score": 6.069213686204513,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-09T20:00:00+00:00"
@@ -482,17 +460,6 @@
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-09T20:00:00+00:00"
-  },
-  "b4d7fad47ab067cd": {
-    "item_id": "b4d7fad47ab067cd",
-    "title": "Fed rate-hike bets rise to 85% after hot August inflation data",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-bets-rise-to-85-after-hot-august-inflation-data/articleshow/134075450.cms",
-    "first_seen": "2026-09-11T15:44:04.158395+00:00",
-    "last_seen": "2026-09-12T02:41:04.947303+00:00",
-    "score": 7.506356403327976,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-09-11T15:15:25+00:00"
   },
   "43e4698a2e251b3b": {
     "item_id": "43e4698a2e251b3b",
@@ -516,17 +483,6 @@
     "cluster_id": null,
     "published_date": "2026-09-11T15:10:12+00:00"
   },
-  "7fcc267ad4377a84": {
-    "item_id": "7fcc267ad4377a84",
-    "title": "Global Market | ECB may need further rate hikes if energy prices stay high: Nagel",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ecb-may-need-further-rate-hikes-if-energy-prices-stay-high-nagel/articleshow/134061226.cms",
-    "first_seen": "2026-09-11T15:44:04.158457+00:00",
-    "last_seen": "2026-09-12T02:41:04.947319+00:00",
-    "score": 6.695866745123983,
-    "classification": "worth_knowing",
-    "cluster_id": "cluster_markets_98",
-    "published_date": "2026-09-11T10:47:00+00:00"
-  },
   "a39c43ec0c0b4e3c": {
     "item_id": "a39c43ec0c0b4e3c",
     "title": "Negative Self-Distillation: Learning to Reason by Avoiding Flaws",
@@ -538,28 +494,6 @@
     "cluster_id": null,
     "published_date": "2026-09-09T20:00:00+00:00"
   },
-  "e7457fe83f27abd7": {
-    "item_id": "e7457fe83f27abd7",
-    "title": "Putin invites Modi back to Russia for summit talks",
-    "url": "https://economictimes.indiatimes.com/news/india/russian-president-putin-invites-pm-modi-for-24th-india-russia-summit-discuss-bilateral-ties-west-asia-and-black-sea-conflicts/articleshow/134065835.cms",
-    "first_seen": "2026-09-11T15:44:04.158578+00:00",
-    "last_seen": "2026-09-12T02:41:04.947407+00:00",
-    "score": 6.254331274042501,
-    "classification": "worth_knowing",
-    "cluster_id": "cluster_markets_19",
-    "published_date": "2026-09-11T12:09:29+00:00"
-  },
-  "bee3b9d1be0ce3a8": {
-    "item_id": "bee3b9d1be0ce3a8",
-    "title": "Iran's Hormuz grip eases, but war stays a costly affair",
-    "url": "https://economictimes.indiatimes.com/news/defence/costly-war-far-from-over-even-as-us-loosens-irans-grip-on-strait-of-hormuz/articleshow/134045453.cms",
-    "first_seen": "2026-09-11T20:20:08.800801+00:00",
-    "last_seen": "2026-09-12T02:41:04.947382+00:00",
-    "score": 6.463166486462086,
-    "classification": "worth_knowing",
-    "cluster_id": "cluster_markets_34",
-    "published_date": "2026-09-11T04:37:20+00:00"
-  },
   "e142f1db98c29ff0": {
     "item_id": "e142f1db98c29ff0",
     "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
@@ -570,17 +504,6 @@
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-08T20:00:00+00:00"
-  },
-  "98c0a05fdca0a9aa": {
-    "item_id": "98c0a05fdca0a9aa",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "first_seen": "2026-09-12T02:41:04.947425+00:00",
-    "last_seen": "2026-09-12T02:41:04.947425+00:00",
-    "score": 6.127203222898588,
-    "classification": "worth_knowing",
-    "cluster_id": "cluster_ai_research_2195",
-    "published_date": "2026-09-11T10:00:00+00:00"
   },
   "d1e9421bf5c9221d": {
     "item_id": "d1e9421bf5c9221d",
@@ -2611,8 +2534,8 @@
     "title": "crawl4ai: Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM...",
     "url": "https://github.com/unclecode/crawl4ai",
     "first_seen": "2026-09-25T10:58:35.032105+00:00",
-    "last_seen": "2026-10-11T21:22:21.078564+00:00",
-    "score": 6.524858222988226,
+    "last_seen": "2026-10-12T03:49:39.734644+00:00",
+    "score": 6.447009093109093,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-25T06:37:14+00:00"
@@ -3282,8 +3205,8 @@
     "title": "hindsight: Hindsight: Agent Memory That Learns",
     "url": "https://github.com/vectorize-io/hindsight",
     "first_seen": "2026-09-29T17:46:33.076609+00:00",
-    "last_seen": "2026-10-11T21:22:21.078586+00:00",
-    "score": 6.347474030052858,
+    "last_seen": "2026-10-12T03:49:39.734668+00:00",
+    "score": 6.28540940637936,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-29T17:05:37+00:00"
@@ -5504,8 +5427,8 @@
     "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
     "url": "https://arxiv.org/abs/2610.12183",
     "first_seen": "2026-10-09T12:26:18.879213+00:00",
-    "last_seen": "2026-10-11T21:22:21.078483+00:00",
-    "score": 6.994413397541782,
+    "last_seen": "2026-10-12T03:49:39.734575+00:00",
+    "score": 6.96822760613615,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-10-07T20:00:00+00:00"
@@ -5603,7 +5526,7 @@
     "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
     "url": "https://arxiv.org/abs/2610.10549",
     "first_seen": "2026-10-09T22:08:13.759379+00:00",
-    "last_seen": "2026-10-11T21:22:21.078602+00:00",
+    "last_seen": "2026-10-12T03:49:39.734697+00:00",
     "score": 6.109930192709979,
     "classification": "worth_knowing",
     "cluster_id": null,
@@ -5691,8 +5614,8 @@
     "title": "DirectSpeech2LLM: A Simple End-to-End Framework to Mitigate Prompt Overfitting in Speech-LLMs",
     "url": "https://tldr.takara.ai/p/2610.08085",
     "first_seen": "2026-10-11T11:58:14.807053+00:00",
-    "last_seen": "2026-10-11T21:22:21.078580+00:00",
-    "score": 6.464315809292913,
+    "last_seen": "2026-10-12T03:49:39.734640+00:00",
+    "score": 6.449694190939537,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-10-06T10:16:49+00:00"
@@ -5718,5 +5641,82 @@
     "classification": "worth_knowing",
     "cluster_id": "cluster_india_22",
     "published_date": "2026-10-11T16:00:06+00:00"
+  },
+  "ea507bf053fc1e3c": {
+    "item_id": "ea507bf053fc1e3c",
+    "title": "Hurricane Isaias kills at least two and disrupts US oil and gas production",
+    "url": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
+    "first_seen": "2026-10-12T03:49:39.734539+00:00",
+    "last_seen": "2026-10-12T03:49:39.734539+00:00",
+    "score": 6.344183913752402,
+    "classification": "worth_knowing",
+    "cluster_id": "cluster_markets_3",
+    "published_date": "2026-10-10T20:26:06+00:00"
+  },
+  "2d6fe5a303fb18da": {
+    "item_id": "2d6fe5a303fb18da",
+    "title": "EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents",
+    "url": "https://arxiv.org/abs/2610.13021",
+    "first_seen": "2026-10-12T03:49:39.734566+00:00",
+    "last_seen": "2026-10-12T03:49:39.734566+00:00",
+    "score": 7.03805988138579,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-10-08T20:00:00+00:00"
+  },
+  "40be953416e6c283": {
+    "item_id": "40be953416e6c283",
+    "title": "Dollar stays near 18-month high as Mideast conflict, inflation data in focus",
+    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-stays-near-18-month-high-as-mideast-conflict-inflation-data-in-focus/articleshow/134880836.cms",
+    "first_seen": "2026-10-12T03:49:39.734581+00:00",
+    "last_seen": "2026-10-12T03:49:39.734581+00:00",
+    "score": 6.789,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-10-12T02:20:43+00:00"
+  },
+  "54e695ebfc728adf": {
+    "item_id": "54e695ebfc728adf",
+    "title": "rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "url": "https://github.com/morluto/rea",
+    "first_seen": "2026-10-12T03:49:39.734606+00:00",
+    "last_seen": "2026-10-12T03:49:39.734606+00:00",
+    "score": 6.075,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-10-12T03:48:56+00:00"
+  },
+  "308926df8d3dfb7d": {
+    "item_id": "308926df8d3dfb7d",
+    "title": "ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents",
+    "url": "https://arxiv.org/abs/2610.13395",
+    "first_seen": "2026-10-12T03:49:39.734661+00:00",
+    "last_seen": "2026-10-12T03:49:39.734661+00:00",
+    "score": 6.2968005432226315,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-10-08T20:00:00+00:00"
+  },
+  "beee49e33101c8b0": {
+    "item_id": "beee49e33101c8b0",
+    "title": "Video-RSI: Recursive Self-Improvement of Video Understanding Agents via Harness Evolution",
+    "url": "https://arxiv.org/abs/2609.37950",
+    "first_seen": "2026-10-12T03:49:39.734681+00:00",
+    "last_seen": "2026-10-12T03:49:39.734681+00:00",
+    "score": 6.123286795139986,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-09-28T20:00:00+00:00"
+  },
+  "fd51d96000fa8b64": {
+    "item_id": "fd51d96000fa8b64",
+    "title": "VisionWeave: Weaving Elastic Visual Representations as a Native Capability of MLLMs",
+    "url": "https://arxiv.org/abs/2610.07987",
+    "first_seen": "2026-10-12T03:49:39.734692+00:00",
+    "last_seen": "2026-10-12T03:49:39.734692+00:00",
+    "score": 6.115043964296015,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-10-05T20:00:00+00:00"
   }
 }
