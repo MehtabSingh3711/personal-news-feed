@@ -4,8 +4,8 @@
     "title": "ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and ...",
     "url": "https://github.com/affaan-m/ECC",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-11-04T23:06:21.176686+00:00",
-    "score": 6.069550932999307,
+    "last_seen": "2026-11-05T04:44:47.071263+00:00",
+    "score": 6.036866995032197,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T00:11:29+00:00"
@@ -37,8 +37,8 @@
     "title": "ollama: Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o...",
     "url": "https://github.com/ollama/ollama",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-11-04T23:06:21.176592+00:00",
-    "score": 6.335,
+    "last_seen": "2026-11-05T04:44:47.071176+00:00",
+    "score": 6.65,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T05:04:18+00:00"
@@ -59,8 +59,8 @@
     "title": "transformers: \ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learnin...",
     "url": "https://github.com/huggingface/transformers",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-11-04T23:06:21.176596+00:00",
-    "score": 6.65,
+    "last_seen": "2026-11-05T04:44:47.071179+00:00",
+    "score": 6.095000000000001,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T18:25:14+00:00"
@@ -81,8 +81,8 @@
     "title": "dify: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collabor...",
     "url": "https://github.com/langgenius/dify",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-11-04T04:27:08.273056+00:00",
-    "score": 6.635,
+    "last_seen": "2026-11-05T04:44:47.071183+00:00",
+    "score": 6.455,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T18:27:07+00:00"
@@ -92,7 +92,7 @@
     "title": "open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
     "url": "https://github.com/open-webui/open-webui",
     "first_seen": "2026-08-08T18:35:22.499629+00:00",
-    "last_seen": "2026-11-04T23:06:21.176599+00:00",
+    "last_seen": "2026-11-05T04:44:47.071186+00:00",
     "score": 6.335,
     "classification": "worth_knowing",
     "cluster_id": null,
@@ -114,8 +114,8 @@
     "title": "browser-use: \ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
     "url": "https://github.com/browser-use/browser-use",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-11-04T23:06:21.176690+00:00",
-    "score": 6.049434303936669,
+    "last_seen": "2026-11-05T04:44:47.071189+00:00",
+    "score": 6.755000000000001,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-06T18:27:59+00:00"
@@ -125,8 +125,8 @@
     "title": "graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable know...",
     "url": "https://github.com/Graphify-Labs/graphify",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-11-04T23:06:21.176651+00:00",
-    "score": 6.417628641855262,
+    "last_seen": "2026-11-05T04:44:47.071232+00:00",
+    "score": 6.357828686986322,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-07T21:58:19+00:00"
@@ -180,8 +180,8 @@
     "title": "llama_index: LlamaIndex is the leading document agent and OCR platform",
     "url": "https://github.com/run-llama/llama_index",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-11-04T23:06:21.176653+00:00",
-    "score": 6.41413940743918,
+    "last_seen": "2026-11-05T04:44:47.071235+00:00",
+    "score": 6.3546112717143055,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-07T21:23:50+00:00"
@@ -202,7 +202,7 @@
     "title": "LocalAI: LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video ...",
     "url": "https://github.com/mudler/LocalAI",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-11-04T23:06:21.176605+00:00",
+    "last_seen": "2026-11-05T04:44:47.071192+00:00",
     "score": 6.65,
     "classification": "worth_knowing",
     "cluster_id": null,
@@ -224,8 +224,8 @@
     "title": "claude-mem: Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent ...",
     "url": "https://github.com/thedotmack/claude-mem",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-11-04T23:06:21.176615+00:00",
-    "score": 6.255000000000001,
+    "last_seen": "2026-11-05T04:44:47.071199+00:00",
+    "score": 6.755000000000001,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T13:27:35+00:00"
@@ -235,8 +235,8 @@
     "title": "ragflow: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses ...",
     "url": "https://github.com/infiniflow/ragflow",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-11-04T23:06:21.176621+00:00",
-    "score": 6.594588033053297,
+    "last_seen": "2026-11-05T04:44:47.071202+00:00",
+    "score": 6.65,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T13:21:23+00:00"
@@ -257,8 +257,8 @@
     "title": "headroom: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer...",
     "url": "https://github.com/headroomlabs-ai/headroom",
     "first_seen": "2026-08-08T18:35:22.500034+00:00",
-    "last_seen": "2026-11-04T23:06:21.176617+00:00",
-    "score": 6.65,
+    "last_seen": "2026-11-05T04:44:47.071205+00:00",
+    "score": 6.455,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-08T16:23:25+00:00"
@@ -301,8 +301,8 @@
     "title": "langgraph: Build resilient agents.",
     "url": "https://github.com/langchain-ai/langgraph",
     "first_seen": "2026-08-13T12:57:02.935576+00:00",
-    "last_seen": "2026-11-04T23:06:21.176608+00:00",
-    "score": 6.65,
+    "last_seen": "2026-11-05T04:44:47.071196+00:00",
+    "score": 6.635,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-08-12T20:03:25+00:00"
@@ -345,8 +345,8 @@
     "title": "TradingAgents: TradingAgents: Multi-Agents LLM Financial Trading Framework",
     "url": "https://github.com/TauricResearch/TradingAgents",
     "first_seen": "2026-09-14T02:54:38.912939+00:00",
-    "last_seen": "2026-11-04T23:06:21.176521+00:00",
-    "score": 7.8556596532866685,
+    "last_seen": "2026-11-05T04:44:47.071222+00:00",
+    "score": 6.33957474592445,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-07T22:51:54+00:00"
@@ -356,8 +356,8 @@
     "title": "crawl4ai: Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM...",
     "url": "https://github.com/unclecode/crawl4ai",
     "first_seen": "2026-09-25T10:58:35.032105+00:00",
-    "last_seen": "2026-11-04T23:06:21.176623+00:00",
-    "score": 6.583549844916996,
+    "last_seen": "2026-11-05T04:44:47.071211+00:00",
+    "score": 6.35757698520913,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-25T06:37:14+00:00"
@@ -373,94 +373,6 @@
     "cluster_id": null,
     "published_date": "2026-09-29T17:05:37+00:00"
   },
-  "6e8ebb7c9500fac3": {
-    "item_id": "6e8ebb7c9500fac3",
-    "title": "On-Policy Parameter Update Direction Underlies Generalization in LLM Post-Training",
-    "url": "https://arxiv.org/abs/2609.36659",
-    "first_seen": "2026-10-05T03:34:04.724120+00:00",
-    "last_seen": "2026-10-05T23:36:05.128232+00:00",
-    "score": 6.776743333679319,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-09-28T20:00:00+00:00"
-  },
-  "86b8da8621532187": {
-    "item_id": "86b8da8621532187",
-    "title": "Global Market: Eurozone business activity hits 29-month high as price pressure intensifies",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-business-activity-hits-29-month-high-as-price-pressure-intensifies/articleshow/134697600.cms",
-    "first_seen": "2026-10-05T13:20:16.942563+00:00",
-    "last_seen": "2026-10-05T23:36:05.128207+00:00",
-    "score": 7.186355123716842,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-10-05T10:00:28+00:00"
-  },
-  "1f7bdc5842ac6114": {
-    "item_id": "1f7bdc5842ac6114",
-    "title": "5 global market themes investors need to watch this week",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-global-market-themes-investors-need-to-watch-this-week/slideshow/134688077.cms",
-    "first_seen": "2026-10-05T13:20:16.942601+00:00",
-    "last_seen": "2026-10-05T23:36:05.128214+00:00",
-    "score": 7.032214124262554,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-10-05T06:07:55+00:00"
-  },
-  "b01ebf50ad70c280": {
-    "item_id": "b01ebf50ad70c280",
-    "title": "Bitcoin trades near $86,000 as weaker US jobs data dims October Fed rate hike bets",
-    "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-86000-as-weaker-us-jobs-data-dims-october-fed-rate-hike-bets/articleshow/134705445.cms",
-    "first_seen": "2026-10-05T13:20:16.942612+00:00",
-    "last_seen": "2026-10-05T23:36:05.128227+00:00",
-    "score": 6.436440320845256,
-    "classification": "worth_knowing",
-    "cluster_id": "cluster_markets_105",
-    "published_date": "2026-10-05T12:11:26+00:00"
-  },
-  "01c6c85d4d1d1aa4": {
-    "item_id": "01c6c85d4d1d1aa4",
-    "title": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation",
-    "url": "https://arxiv.org/abs/2609.38078",
-    "first_seen": "2026-10-05T13:20:16.942673+00:00",
-    "last_seen": "2026-10-05T23:36:05.128320+00:00",
-    "score": 6.6067934120316885,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-09-28T20:00:00+00:00"
-  },
-  "e07b835e0e19e96b": {
-    "item_id": "e07b835e0e19e96b",
-    "title": "ProAR: Learning Prospective Reasoning with Autoregressive Video Models",
-    "url": "https://arxiv.org/abs/2610.03664",
-    "first_seen": "2026-10-05T13:20:16.942690+00:00",
-    "last_seen": "2026-10-05T23:36:05.128335+00:00",
-    "score": 6.489467612872591,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-10-01T20:00:00+00:00"
-  },
-  "7eb01138142a70d6": {
-    "item_id": "7eb01138142a70d6",
-    "title": "Collective Bias Mitigation via Model Routing and Collaboration",
-    "url": "https://arxiv.org/abs/2610.03240",
-    "first_seen": "2026-10-05T13:20:16.942694+00:00",
-    "last_seen": "2026-10-06T04:22:05.689241+00:00",
-    "score": 6.5301891579910265,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-10-01T20:00:00+00:00"
-  },
-  "617c25750dc5252d": {
-    "item_id": "617c25750dc5252d",
-    "title": "Indian bonds hold tight range ahead of RBI policy meeting",
-    "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-hold-tight-range-ahead-of-rbi-policy-meeting/articleshow/134705629.cms",
-    "first_seen": "2026-10-05T13:20:16.942702+00:00",
-    "last_seen": "2026-10-05T23:36:05.128341+00:00",
-    "score": 6.296384791523318,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-10-05T12:18:02+00:00"
-  },
   "e0793895dc9fb716": {
     "item_id": "e0793895dc9fb716",
     "title": "Bond turbulence means it\u2019s time for the ECB to put QT on hold",
@@ -471,17 +383,6 @@
     "classification": "worth_knowing",
     "cluster_id": "cluster_markets_4",
     "published_date": "2026-10-05T10:22:05+00:00"
-  },
-  "cc928c2ae0e7f5ea": {
-    "item_id": "cc928c2ae0e7f5ea",
-    "title": "Euro hits 17-month low as French debt fears, US inflation lift dollar",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/euro-hits-17-month-low-as-french-debt-fears-us-inflation-lift-dollar/articleshow/134716587.cms",
-    "first_seen": "2026-10-05T23:36:05.128196+00:00",
-    "last_seen": "2026-10-05T23:36:05.128196+00:00",
-    "score": 7.468999999999999,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-10-05T19:43:00+00:00"
   },
   "5758b7fcd7a45069": {
     "item_id": "5758b7fcd7a45069",
@@ -494,17 +395,6 @@
     "cluster_id": null,
     "published_date": "2026-10-01T23:10:05+00:00"
   },
-  "d726fffe64f8a1ac": {
-    "item_id": "d726fffe64f8a1ac",
-    "title": "Language Models that Play Chess and Explain Their Moves",
-    "url": "https://arxiv.org/abs/2610.03695",
-    "first_seen": "2026-10-05T23:36:05.128348+00:00",
-    "last_seen": "2026-10-06T04:22:05.689255+00:00",
-    "score": 6.216832556603931,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-10-01T20:00:00+00:00"
-  },
   "cb570de0d4ae0e55": {
     "item_id": "cb570de0d4ae0e55",
     "title": "A Comprehensive Benchmark of Source-Free Universal Domain Adaptation on Time Series Representations",
@@ -515,17 +405,6 @@
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-09-30T14:18:26+00:00"
-  },
-  "0b77b794ab5a6f77": {
-    "item_id": "0b77b794ab5a6f77",
-    "title": "French central bank head warns country at risk of being \u2018strangled by interest rates\u2019",
-    "url": "https://www.ft.com/content/74c3cc77-1593-4c49-90f9-0d92fa3a2418?syn-25a6b1a6=1",
-    "first_seen": "2026-10-06T04:22:05.689141+00:00",
-    "last_seen": "2026-10-06T04:22:05.689141+00:00",
-    "score": 7.78635365594325,
-    "classification": "worth_knowing",
-    "cluster_id": "cluster_markets_112",
-    "published_date": "2026-10-05T16:56:54+00:00"
   },
   "00ccb25647a066a5": {
     "item_id": "00ccb25647a066a5",
@@ -548,28 +427,6 @@
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-10-02T20:00:00+00:00"
-  },
-  "763281fc7046247e": {
-    "item_id": "763281fc7046247e",
-    "title": "Self-Supervised Scaling of Terminal Environments for Scientific Domains",
-    "url": "https://arxiv.org/abs/2610.02710",
-    "first_seen": "2026-10-06T04:22:05.689275+00:00",
-    "last_seen": "2026-10-06T04:22:05.689275+00:00",
-    "score": 6.051613078528161,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-10-01T20:00:00+00:00"
-  },
-  "6a312c7da531b0cf": {
-    "item_id": "6a312c7da531b0cf",
-    "title": "Latent-MOPD: Latent Multi-Teacher On-Policy Distillation",
-    "url": "https://arxiv.org/abs/2610.02381",
-    "first_seen": "2026-10-06T04:22:05.689280+00:00",
-    "last_seen": "2026-10-06T04:22:05.689280+00:00",
-    "score": 6.024077144693783,
-    "classification": "worth_knowing",
-    "cluster_id": null,
-    "published_date": "2026-09-30T20:00:00+00:00"
   },
   "e9d1cf8fc7d4aedd": {
     "item_id": "e9d1cf8fc7d4aedd",
@@ -2457,8 +2314,8 @@
     "title": "serviette: Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live da...",
     "url": "https://github.com/pathwaycom/serviette",
     "first_seen": "2026-10-14T21:12:46.718817+00:00",
-    "last_seen": "2026-11-04T23:06:21.176676+00:00",
-    "score": 6.141956575246633,
+    "last_seen": "2026-11-05T04:44:47.071253+00:00",
+    "score": 6.103632079101071,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-10-14T16:56:37+00:00"
@@ -6263,8 +6120,8 @@
     "title": "Is Forgetting Unified? Exploring Concept Unlearning in Unified Multimodal Models",
     "url": "https://arxiv.org/abs/2611.04467",
     "first_seen": "2026-11-04T04:27:08.272993+00:00",
-    "last_seen": "2026-11-04T23:06:21.176579+00:00",
-    "score": 7.000934713515438,
+    "last_seen": "2026-11-05T04:44:47.071144+00:00",
+    "score": 6.972905024183852,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-11-02T19:00:00+00:00"
@@ -6296,8 +6153,8 @@
     "title": "YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction",
     "url": "https://arxiv.org/abs/2611.05280",
     "first_seen": "2026-11-04T13:41:15.430790+00:00",
-    "last_seen": "2026-11-04T23:06:21.176583+00:00",
-    "score": 6.983191865279085,
+    "last_seen": "2026-11-05T04:44:47.071165+00:00",
+    "score": 6.961414835192162,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-11-02T19:00:00+00:00"
@@ -6307,8 +6164,8 @@
     "title": "FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing",
     "url": "https://arxiv.org/abs/2611.04303",
     "first_seen": "2026-11-04T13:41:15.430801+00:00",
-    "last_seen": "2026-11-04T23:06:21.176586+00:00",
-    "score": 6.654621977102977,
+    "last_seen": "2026-11-05T04:44:47.071172+00:00",
+    "score": 6.626592287561197,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-11-02T19:00:00+00:00"
@@ -6318,8 +6175,8 @@
     "title": "VidUEU-Agent: A Data-Curation Agent for Multimodal Understanding, Editing, and Unified Tasks",
     "url": "https://arxiv.org/abs/2611.04418",
     "first_seen": "2026-11-04T13:41:15.430808+00:00",
-    "last_seen": "2026-11-04T23:06:21.176589+00:00",
-    "score": 6.762885851894316,
+    "last_seen": "2026-11-05T04:44:47.071208+00:00",
+    "score": 6.618428086788056,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-11-02T19:00:00+00:00"
@@ -6329,8 +6186,8 @@
     "title": "Going Deeper With Memories",
     "url": "https://arxiv.org/abs/2611.05255",
     "first_seen": "2026-11-04T13:41:15.430869+00:00",
-    "last_seen": "2026-11-04T23:06:21.176648+00:00",
-    "score": 6.450652171206441,
+    "last_seen": "2026-11-05T04:44:47.071229+00:00",
+    "score": 6.410609757477314,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-11-02T19:00:00+00:00"
@@ -6340,8 +6197,8 @@
     "title": "RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On",
     "url": "https://arxiv.org/abs/2611.05163",
     "first_seen": "2026-11-04T13:41:15.430879+00:00",
-    "last_seen": "2026-11-04T23:06:21.176660+00:00",
-    "score": 6.26518851239387,
+    "last_seen": "2026-11-05T04:44:47.071241+00:00",
+    "score": 6.267205128267419,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-11-02T19:00:00+00:00"
@@ -6351,8 +6208,8 @@
     "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
     "url": "https://arxiv.org/abs/2611.05377",
     "first_seen": "2026-11-04T13:41:15.430883+00:00",
-    "last_seen": "2026-11-04T23:06:21.176663+00:00",
-    "score": 6.253011649883909,
+    "last_seen": "2026-11-05T04:44:47.071244+00:00",
+    "score": 6.21787182522991,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-11-02T19:00:00+00:00"
@@ -6362,8 +6219,8 @@
     "title": "Think Less, Locally: Local Preference Learning for Reasoning Compression",
     "url": "https://arxiv.org/abs/2611.04814",
     "first_seen": "2026-11-04T13:41:15.430896+00:00",
-    "last_seen": "2026-11-04T23:06:21.176684+00:00",
-    "score": 6.087715618708813,
+    "last_seen": "2026-11-05T04:44:47.071260+00:00",
+    "score": 6.047673204787621,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-11-02T19:00:00+00:00"
@@ -6373,8 +6230,8 @@
     "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
     "url": "https://arxiv.org/abs/2611.03634",
     "first_seen": "2026-11-04T13:41:15.430902+00:00",
-    "last_seen": "2026-11-04T23:06:21.176680+00:00",
-    "score": 6.087952369988824,
+    "last_seen": "2026-11-05T04:44:47.071257+00:00",
+    "score": 6.077106266918114,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-11-01T19:00:00+00:00"
@@ -6384,8 +6241,8 @@
     "title": "ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents",
     "url": "https://arxiv.org/abs/2611.05036",
     "first_seen": "2026-11-04T13:41:15.430907+00:00",
-    "last_seen": "2026-11-04T23:06:21.176656+00:00",
-    "score": 6.308427279869344,
+    "last_seen": "2026-11-05T04:44:47.071238+00:00",
+    "score": 6.268384866242025,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-11-02T19:00:00+00:00"
@@ -6428,8 +6285,8 @@
     "title": "PATTS: Parallel-Aware Test-Time Scaling for Thought-Image Generation in Multimodal Discrete Diffusion LLMs",
     "url": "https://tldr.takara.ai/p/2611.04948",
     "first_seen": "2026-11-04T23:06:21.176636+00:00",
-    "last_seen": "2026-11-04T23:06:21.176636+00:00",
-    "score": 6.478024652453402,
+    "last_seen": "2026-11-05T04:44:47.071225+00:00",
+    "score": 6.425205045138851,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-11-03T14:10:56+00:00"
@@ -6439,8 +6296,8 @@
     "title": "OpenAI to acquire Pierre Computer Company, Inc.",
     "url": "https://openai.com/index/openai-to-acquire-pierre",
     "first_seen": "2026-11-04T23:06:21.176667+00:00",
-    "last_seen": "2026-11-04T23:06:21.176667+00:00",
-    "score": 6.233210061404193,
+    "last_seen": "2026-11-05T04:44:47.071247+00:00",
+    "score": 6.158173885692349,
     "classification": "worth_knowing",
     "cluster_id": "cluster_ai_research_1286",
     "published_date": "2026-11-04T14:30:00+00:00"
@@ -6450,10 +6307,21 @@
     "title": "TEXMET: A Deep Learning Benchmark for Archaeological Textile Reconstruction",
     "url": "https://tldr.takara.ai/p/2611.04734",
     "first_seen": "2026-11-04T23:06:21.176672+00:00",
-    "last_seen": "2026-11-04T23:06:21.176672+00:00",
-    "score": 6.155937569543384,
+    "last_seen": "2026-11-05T04:44:47.071250+00:00",
+    "score": 6.104838594431134,
     "classification": "worth_knowing",
     "cluster_id": null,
     "published_date": "2026-11-03T11:53:18+00:00"
+  },
+  "eab07e5770a267aa": {
+    "item_id": "eab07e5770a267aa",
+    "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+    "url": "https://arxiv.org/abs/2611.06918",
+    "first_seen": "2026-11-05T04:44:47.071215+00:00",
+    "last_seen": "2026-11-05T04:44:47.071215+00:00",
+    "score": 6.49170865250102,
+    "classification": "worth_knowing",
+    "cluster_id": null,
+    "published_date": "2026-11-04T13:59:58+00:00"
   }
 }
