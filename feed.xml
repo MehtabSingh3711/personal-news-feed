@@ -5,17 +5,35 @@
     <description>High-signal intelligence briefing: AI research, geopolitics, financial markets, and major technology announcements.</description>
     <link>https://mehtabsingh3711.github.io/personal-news-feed</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:25:16 +0000</lastBuildDate>
     <generator>PersonalIntelligenceEngine/1.0</generator>
     <atom:link href="https://mehtabsingh3711.github.io/personal-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[7.8] India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks</title>
+      <title>[7.9] DeepTutor: DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</title>
+      <link>https://arxiv.org/abs/2604.26962</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Official open-source implementation accompanying a research paper. High value for AI developers and researchers.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;7.9/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / Agents / RAG&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;63.3k ★ · Active development · 7,641 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/HKUDS/DeepTutor&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt; &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp; &lt;a href=&quot;https://arxiv.org/abs/2604.26962&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Read Paper →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">d5d85136ceb66c04b914d7172ae24f5d</guid>
+      <pubDate>Thu, 26 Nov 2026 16:19:37 +0000</pubDate>
+      <category>GitHub</category>
+      <category>Agents</category>
+      <category>RAG</category>
+      <source url="https://arxiv.org/abs/2604.26962">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[7.4] India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks</title>
       <link>https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136193320.cms</link>
       <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
 &lt;p&gt;Indian government bonds experienced a decline as oil prices increased due to geopolitical tensions in the Middle East. The Reserve Bank of India emphasized broad-based food inflation pressures, complicating the economic landscape. Retail inflation had already surpassed the RBI&amp;#x27;s threshold of 6% in October, prompting concern among economists.&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Spiking oil prices combined with persistent food inflation directly threaten India&amp;#x27;s sovereign debt market and upcoming monetary policy decisions.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;7.8/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;p&gt;Rising oil prices and persistent food inflation pose material risks to Indian fixed-income markets ahead of the RBI policy meeting.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;7.4/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;Indian Markets / Economy / Central Banks / Commodities&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136193320.cms&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Full Article (ET Markets) →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">43a8d516e3b5cf0c26263f8032859f9f</guid>
@@ -27,68 +45,15 @@
       <source url="https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136193320.cms">ET Markets</source>
     </item>
     <item>
-      <title>[7.7] DeepTutor: DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</title>
-      <link>https://arxiv.org/abs/2604.26962</link>
-      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;DeepTutor represents a notable open-source application of lifelong personalized tutoring using agentic and RAG frameworks, though execution quality and adoption remain to be proven.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;7.7/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / Agents / RAG&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;63.2k ★ · Active development · 7,618 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/HKUDS/DeepTutor&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt; &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp; &lt;a href=&quot;https://arxiv.org/abs/2604.26962&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Read Paper →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">d5d85136ceb66c04b914d7172ae24f5d</guid>
-      <pubDate>Thu, 26 Nov 2026 14:50:40 +0000</pubDate>
-      <category>GitHub</category>
-      <category>Agents</category>
-      <category>RAG</category>
-      <source url="https://arxiv.org/abs/2604.26962">GitHub Intelligence</source>
-    </item>
-    <item>
-      <title>[7.0] LLM-coupled interpretable tool wear monitoring with multi-evidence reasoning in CNC machining</title>
-      <link>https://tldr.takara.ai/p/2611.34270</link>
-      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
-&lt;p&gt;Interpretable tool wear assessment in CNC machining is challenging. Existing diagnostic models have high accuracy but provide limited guidance for tool replacement. This study proposes a two layer framework combining deep learning wear classification and LLM assisted reasoning.&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Advances fundamental language model capabilities, reasoning efficiency, or training methodology.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;7.0/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://tldr.takara.ai/p/2611.34270&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">dcc5650547573671adb7acebb2331b4d</guid>
-      <pubDate>Wed, 25 Nov 2026 12:32:30 +0000</pubDate>
-      <category>AI Research</category>
-      <category>LLM</category>
-      <source url="https://tldr.takara.ai/p/2611.34270">HuggingFace Daily Papers RSS</source>
-    </item>
-    <item>
-      <title>[6.9] Gold, silver ETFs rally up to 6% as precious metal prices rebound despite US inflation concerns</title>
-      <link>https://economictimes.indiatimes.com/mf/mf-news/gold-silver-etfs-rally-up-to-6-as-precious-metal-prices-rebound-despite-us-inflation-concerns/articleshow/136180767.cms</link>
-      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
-&lt;p&gt;Gold and silver ETFs rallied up to 6% on Thursday, tracking a sharp rebound in precious metal prices on the MCX amid oversold conditions. The recovery came despite strong US inflation data fuelling expectations of another Federal Reserve rate hike next month, which continued to weigh on precious metals.Of the 26 gold ETFs, HSBC Gold ETF gained the most, rising around 6% to hit the day’s high...&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;A 6% rally in precious metals ETFs amid contrary US inflation and rate-hike pressures is a notable short-term market movement worth noting for commodity investors.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.9/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;Global Markets / Economy / Central Banks / Commodities / Technology&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://economictimes.indiatimes.com/mf/mf-news/gold-silver-etfs-rally-up-to-6-as-precious-metal-prices-rebound-despite-us-inflation-concerns/articleshow/136180767.cms&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Full Article (Economic Times Top Stories) →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">40404d5ccaf869f9f2c3d48f2418aa6b</guid>
-      <pubDate>Thu, 26 Nov 2026 06:11:32 +0000</pubDate>
-      <category>Global Markets</category>
-      <category>Economy</category>
-      <category>Central Banks</category>
-      <category>Commodities</category>
-      <category>Technology</category>
-      <source url="https://economictimes.indiatimes.com/mf/mf-news/gold-silver-etfs-rally-up-to-6-as-precious-metal-prices-rebound-despite-us-inflation-concerns/articleshow/136180767.cms">Economic Times Top Stories</source>
-    </item>
-    <item>
       <title>[6.9] EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts</title>
       <link>https://arxiv.org/abs/2611.34466</link>
       <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
 &lt;p&gt;AI wearables, such as smart glasses, extend the context available to agents beyond digital environments to users&amp;#x27; physical surroundings. With these devices, computer tasks can originate from users&amp;#x27; ongoing activities rather than solely from explicit instructions. Through first-person observations, agents can identify objects and activities relevant to user requests and ground digital tasks in...&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;EgoUseBench introduces a valuable evaluation framework for multimodal AI agents operating under dynamic, first-person wearable contexts.&lt;/p&gt;
+&lt;p&gt;Introduces a novel benchmark for evaluating computer-use agents in multimodal, first-person contexts typical of AI wearables, addressing a genuine gap in current agent evaluation.&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.9/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Agents&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 17 upvotes&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 19 upvotes&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2611.34466&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">d47f36447ed08fe0b839243d5ef8b53f</guid>
       <pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
@@ -97,40 +62,23 @@
       <source url="https://arxiv.org/abs/2611.34466">HuggingFace Daily Papers</source>
     </item>
     <item>
-      <title>[6.9] VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation</title>
-      <link>https://arxiv.org/abs/2611.34237</link>
-      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
-&lt;p&gt;Code-driven video generation asks a coding agent to write and run rendering programs. This gives exact control over typography, data visualizations, synchronized audio, and multi-shot scenes, and it leaves an editable project behind. A program that exits cleanly can still render overlapping labels, a camera aimed away from its subject, broken object interactions, or narration that drifts out...&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;VibeVideoAgent introduces a novel training-free perceptual feedback loop for code-driven video generation, addressing a key limitation where silent rendering errors escape traditional coding agents.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.9/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Agents / Multimodal&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 54 upvotes&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2611.34237&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">7595e1db164d796d15d6f4cac9b4ad9d</guid>
-      <pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
-      <category>AI Research</category>
-      <category>Agents</category>
-      <category>Multimodal</category>
-      <source url="https://arxiv.org/abs/2611.34237">HuggingFace Daily Papers</source>
-    </item>
-    <item>
-      <title>[6.8] claude-mem: Persistent Context Across Sessions for Every Agent – Captures everything your agent ...</title>
-      <link>https://github.com/thedotmack/claude-mem</link>
+      <title>[6.8] graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable know...</title>
+      <link>https://github.com/Graphify-Labs/graphify</link>
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More&lt;/p&gt;
+&lt;p&gt;Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;This tool addresses a major friction point in agentic workflows by providing cross-session persistent memory across multiple major coding assistants.&lt;/p&gt;
+&lt;p&gt;It offers a deterministic, vector-less alternative for codebase RAG tailored for modern AI coding agents.&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.8/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / Agents / RAG&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;119.9k ★ · Active development · 10,427 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">853c63f738f0cecf3b918959597f2fe6</guid>
-      <pubDate>Thu, 26 Nov 2026 12:05:34 +0000</pubDate>
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / RAG&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;153.9k ★ · Active development · 14,800 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Graphify-Labs/graphify&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">c290a2acf859c75ba01866cb35826aea</guid>
+      <pubDate>Thu, 26 Nov 2026 21:21:34 +0000</pubDate>
       <category>GitHub</category>
+      <category>LLM</category>
       <category>Agents</category>
       <category>RAG</category>
-      <source url="https://github.com/thedotmack/claude-mem">GitHub Intelligence</source>
+      <source url="https://github.com/Graphify-Labs/graphify">GitHub Intelligence</source>
     </item>
     <item>
       <title>[6.7] Attacking Hard-Label Large Vision-Language Models with Model-Sensitive Adversarial Patch Designs</title>
@@ -138,7 +86,7 @@
       <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
 &lt;p&gt;Large vision-language models (LVLMs) have demonstrated impressive capabilities in handling multi-modal downstream tasks, gaining increasing popularity. However, recent studies show that LVLMs are susceptible to both intentional and inadvertent attacks. Existing attackers ideally optimize adversarial perturbations with backpropagated gradients from LVLMs, thus limiting their scalability in...&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;It addresses a practical security vulnerability (hard-label attacks) in LVLMs, though it represents an incremental advance in adversarial robustness research.&lt;/p&gt;
+&lt;p&gt;This paper presents HardPatch, a novel hard-label adversarial attack method for LVLMs that operates without gradient access, highlighting practical security vulnerabilities in real-world multimodal applications.&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.7/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Multimodal&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://tldr.takara.ai/p/2611.34467&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
@@ -149,23 +97,55 @@
       <source url="https://tldr.takara.ai/p/2611.34467">HuggingFace Daily Papers RSS</source>
     </item>
     <item>
-      <title>[6.7] langchain: The agent engineering platform.</title>
-      <link>https://github.com/langchain-ai/langchain</link>
-      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;The agent engineering platform.&lt;/p&gt;
+      <title>[6.7] LLM-coupled interpretable tool wear monitoring with multi-evidence reasoning in CNC machining</title>
+      <link>https://tldr.takara.ai/p/2611.34270</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Interpretable tool wear assessment in CNC machining is challenging. Existing diagnostic models have high accuracy but provide limited guidance for tool replacement. This study proposes a two layer framework combining deep learning wear classification and LLM assisted reasoning.&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (150,021 stars) with active community adoption.&lt;/p&gt;
+&lt;p&gt;This paper presents a practical, validated application of LLMs combined with deep learning for industrial predictive maintenance, moving beyond chat interfaces into actionable physical workflows.&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.7/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / RAG&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;150.0k ★ · Active development · 25,177 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/langchain-ai/langchain&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">c5a32632e586ab2c7c9c6b0311eaac24</guid>
-      <pubDate>Thu, 26 Nov 2026 10:36:59 +0000</pubDate>
-      <category>GitHub</category>
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://tldr.takara.ai/p/2611.34270&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">dcc5650547573671adb7acebb2331b4d</guid>
+      <pubDate>Wed, 25 Nov 2026 12:32:30 +0000</pubDate>
+      <category>AI Research</category>
       <category>LLM</category>
+      <source url="https://tldr.takara.ai/p/2611.34270">HuggingFace Daily Papers RSS</source>
+    </item>
+    <item>
+      <title>[6.7] t3code: The best way to control Claude Code, Codex and more from any computer or phone</title>
+      <link>https://github.com/pingdotgg/t3code</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;The best way to control Claude Code, Codex and more from any computer or phone&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (80,978 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.7/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / Agents&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;81.0k ★ · Active development · 14,293 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pingdotgg/t3code&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">553e1cc54ebc818266579b0a7fc03344</guid>
+      <pubDate>Fri, 27 Nov 2026 01:22:13 +0000</pubDate>
+      <category>GitHub</category>
+      <category>Agents</category>
+      <source url="https://github.com/pingdotgg/t3code">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.7] hindsight: Hindsight: Agent Memory That Learns</title>
+      <link>https://github.com/vectorize-io/hindsight</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;Hindsight: Agent Memory That Learns&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (63,706 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.7/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / Agents / RAG&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;63.7k ★ · Active development · 7,408 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vectorize-io/hindsight&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">ef1d62b18b98cdd0e339163892306317</guid>
+      <pubDate>Thu, 26 Nov 2026 22:41:55 +0000</pubDate>
+      <category>GitHub</category>
       <category>Agents</category>
       <category>RAG</category>
-      <source url="https://github.com/langchain-ai/langchain">GitHub Intelligence</source>
+      <source url="https://github.com/vectorize-io/hindsight">GitHub Intelligence</source>
     </item>
     <item>
       <title>[6.7] LocalAI: LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video ...</title>
@@ -173,13 +153,13 @@
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
 &lt;p&gt;LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (50,560 stars) with active community adoption.&lt;/p&gt;
+&lt;p&gt;Rapidly growing open-source project (50,568 stars) with active community adoption.&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.7/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / Multimodal&lt;/p&gt;
 &lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;50.6k ★ · Active development · 4,654 forks&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mudler/LocalAI&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">1e8c9128b5ed2b9d1e6abac8240134cc</guid>
-      <pubDate>Thu, 26 Nov 2026 15:56:37 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 01:00:35 +0000</pubDate>
       <category>GitHub</category>
       <category>LLM</category>
       <category>Agents</category>
@@ -192,54 +172,52 @@
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
 &lt;p&gt;Streamlit — The agent-native framework for data apps and dashboards.&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (46,512 stars) with active community adoption.&lt;/p&gt;
+&lt;p&gt;Rapidly growing open-source project (46,516 stars) with active community adoption.&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.7/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / Agents&lt;/p&gt;
 &lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;46.5k ★ · Active development · 4,464 forks&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/streamlit/streamlit&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">9874efc4c925cc500bc30f44937295c5</guid>
-      <pubDate>Thu, 26 Nov 2026 15:49:33 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 19:28:58 +0000</pubDate>
       <category>GitHub</category>
       <category>Agents</category>
       <source url="https://github.com/streamlit/streamlit">GitHub Intelligence</source>
     </item>
     <item>
-      <title>[6.7] ragflow: RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that ...</title>
-      <link>https://github.com/infiniflow/ragflow</link>
+      <title>[6.7] claude-mem: Persistent Context Across Sessions for Every Agent – Captures everything your agent ...</title>
+      <link>https://github.com/thedotmack/claude-mem</link>
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.&lt;/p&gt;
+&lt;p&gt;Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (94,762 stars) with active community adoption.&lt;/p&gt;
+&lt;p&gt;Rapidly growing open-source project (120,004 stars) with active community adoption.&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.7/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / Agents / RAG / Semiconductors&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;94.8k ★ · Active development · 11,416 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/infiniflow/ragflow&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">5ff4bf30ae94874f6dd34cdbfd6d6d72</guid>
-      <pubDate>Thu, 26 Nov 2026 13:20:42 +0000</pubDate>
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / Agents / RAG&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;120.0k ★ · Active development · 10,438 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">853c63f738f0cecf3b918959597f2fe6</guid>
+      <pubDate>Thu, 26 Nov 2026 21:26:54 +0000</pubDate>
       <category>GitHub</category>
       <category>Agents</category>
       <category>RAG</category>
-      <category>Semiconductors</category>
-      <source url="https://github.com/infiniflow/ragflow">GitHub Intelligence</source>
+      <source url="https://github.com/thedotmack/claude-mem">GitHub Intelligence</source>
     </item>
     <item>
-      <title>[6.7] cherry-studio: Your AI workspace for models, agents, and productivity.</title>
-      <link>https://github.com/CherryHQ/cherry-studio</link>
-      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;Your AI workspace for models, agents, and productivity.&lt;/p&gt;
+      <title>[6.6] VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation</title>
+      <link>https://arxiv.org/abs/2611.34237</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Code-driven video generation asks a coding agent to write and run rendering programs. This gives exact control over typography, data visualizations, synchronized audio, and multi-shot scenes, and it leaves an editable project behind. A program that exits cleanly can still render overlapping labels, a camera aimed away from its subject, broken object interactions, or narration that drifts out...&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (53,902 stars) with active community adoption.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.7/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / RAG&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;53.9k ★ · Active development · 5,277 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/CherryHQ/cherry-studio&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">b1b1542da472edd24925f21541bcfbf9</guid>
-      <pubDate>Thu, 26 Nov 2026 16:09:29 +0000</pubDate>
-      <category>GitHub</category>
-      <category>LLM</category>
+&lt;p&gt;VibeVideoAgent introduces a novel training-free framework that addresses a key limitation in code-driven video generation by integrating multimodal perception into the production loop.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Agents / Multimodal&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 54 upvotes&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2611.34237&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">7595e1db164d796d15d6f4cac9b4ad9d</guid>
+      <pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
+      <category>AI Research</category>
       <category>Agents</category>
-      <category>RAG</category>
-      <source url="https://github.com/CherryHQ/cherry-studio">GitHub Intelligence</source>
+      <category>Multimodal</category>
+      <source url="https://arxiv.org/abs/2611.34237">HuggingFace Daily Papers</source>
     </item>
     <item>
       <title>[6.6] open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)</title>
@@ -247,13 +225,13 @@
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
 &lt;p&gt;User-friendly AI Interface (Supports Ollama, OpenAI API, ...)&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Open-WebUI is a widely adopted interface for LLMs and RAG, making its ongoing updates relevant for tracking open-source AI tooling adoption.&lt;/p&gt;
+&lt;p&gt;Open WebUI is a widely adopted, highly regarded open-source interface for local and cloud LLMs, making its ongoing updates relevant for AI deployment tracking.&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / RAG / Technology&lt;/p&gt;
 &lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;159.6k ★ · Active development · 23,163 forks&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/open-webui/open-webui&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">7c94eb734f17ebfcce7230067c672f89</guid>
-      <pubDate>Thu, 26 Nov 2026 14:27:36 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 00:38:20 +0000</pubDate>
       <category>GitHub</category>
       <category>LLM</category>
       <category>RAG</category>
@@ -261,70 +239,52 @@
       <source url="https://github.com/open-webui/open-webui">GitHub Intelligence</source>
     </item>
     <item>
-      <title>[6.6] ollama: Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</title>
-      <link>https://github.com/ollama/ollama</link>
-      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.&lt;/p&gt;
+      <title>[6.6] Real2SimLab: A Unified Platform for Real-to-Simulation Transfer</title>
+      <link>https://arxiv.org/abs/2611.34849</link>
+      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
+&lt;p&gt;Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them. However, each individual benchmark defines its own inputs, deliverables, and scoring pipeline.&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (188,211 stars) with active community adoption.&lt;/p&gt;
+&lt;p&gt;Improves autonomous AI agent workflows, tool use, or planning architectures.&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;188.2k ★ · Active development · 19,217 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ollama/ollama&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">77b4be38215d4c711f4039cc054b0821</guid>
-      <pubDate>Thu, 26 Nov 2026 06:27:01 +0000</pubDate>
-      <category>GitHub</category>
-      <category>LLM</category>
-      <source url="https://github.com/ollama/ollama">GitHub Intelligence</source>
-    </item>
-    <item>
-      <title>[6.6] MoneyPrinterTurbo: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or ke...</title>
-      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
-      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (145,832 stars) with active community adoption.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;145.8k ★ · Active development · 23,477 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/harry0703/MoneyPrinterTurbo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">0604d6a7a7d7afd211057472d17446a4</guid>
-      <pubDate>Thu, 26 Nov 2026 06:08:09 +0000</pubDate>
-      <category>GitHub</category>
-      <category>LLM</category>
-      <source url="https://github.com/harry0703/MoneyPrinterTurbo">GitHub Intelligence</source>
-    </item>
-    <item>
-      <title>[6.6] caveman: why use many token when few token do trick. Skill + local proxy for coding agents: short...</title>
-      <link>https://github.com/JuliusBrussee/caveman</link>
-      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;It offers a practical, token-optimizing proxy solution for coding agents, addressing a significant cost and context window pain point.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;123.0k ★ · Active development · 7,198 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JuliusBrussee/caveman&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">bac657e60ae022eb6406b2f4de1f26c8</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:02 +0000</pubDate>
-      <category>GitHub</category>
-      <category>LLM</category>
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Agents&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 104 upvotes&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2611.34849&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">61f4b5f38fd11161edbac4c1a76a06bf</guid>
+      <pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
+      <category>AI Research</category>
       <category>Agents</category>
-      <source url="https://github.com/JuliusBrussee/caveman">GitHub Intelligence</source>
+      <source url="https://arxiv.org/abs/2611.34849">HuggingFace Daily Papers</source>
     </item>
     <item>
-      <title>[6.5] llama_index: LlamaIndex is the document processing platform for AI</title>
+      <title>[6.6] obsidian-skills: Teach your agent to use Obsidian and open formats including Markdown, Bases, JSO...</title>
+      <link>https://github.com/obsidianmd/obsidian-skills</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (54,028 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / Agents&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;54.0k ★ · Active development · 3,845 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/obsidianmd/obsidian-skills&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">733644813585c48ab91f32234bfec143</guid>
+      <pubDate>Thu, 26 Nov 2026 17:50:16 +0000</pubDate>
+      <category>GitHub</category>
+      <category>Agents</category>
+      <source url="https://github.com/obsidianmd/obsidian-skills">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.6] llama_index: LlamaIndex is the document processing platform for AI</title>
       <link>https://github.com/run-llama/llama_index</link>
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
 &lt;p&gt;LlamaIndex is the document processing platform for AI&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (53,017 stars) with active community adoption.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.5/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;p&gt;Rapidly growing open-source project (53,019 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / RAG&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;53.0k ★ · Active development · 8,648 forks&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;53.0k ★ · Active development · 8,647 forks&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/run-llama/llama_index&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">e7f1aab302e1f0371ea52ef1ba46fdfb</guid>
-      <pubDate>Thu, 26 Nov 2026 02:31:58 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 17:46:19 +0000</pubDate>
       <category>GitHub</category>
       <category>LLM</category>
       <category>Agents</category>
@@ -332,51 +292,32 @@
       <source url="https://github.com/run-llama/llama_index">GitHub Intelligence</source>
     </item>
     <item>
-      <title>[6.5] crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborativ...</title>
-      <link>https://github.com/crewAIInc/crewAI</link>
+      <title>[6.6] headroom: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer...</title>
+      <link>https://github.com/headroomlabs-ai/headroom</link>
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.&lt;/p&gt;
+&lt;p&gt;Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (61,296 stars) with active community adoption.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.5/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / Technology&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;61.3k ★ · Active development · 9,303 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/crewAIInc/crewAI&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">715b6bc81ab4b4ffcee5bb2150989321</guid>
-      <pubDate>Thu, 26 Nov 2026 02:09:07 +0000</pubDate>
+&lt;p&gt;This tool addresses context window bloat and cost inefficiencies in LLM workflows with practical compression methods for RAG and coding agents.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / RAG&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;81.0k ★ · Active development · 6,357 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/headroomlabs-ai/headroom&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">668711a6e10728221dfc0e58ed3e6558</guid>
+      <pubDate>Thu, 26 Nov 2026 19:44:48 +0000</pubDate>
       <category>GitHub</category>
       <category>LLM</category>
       <category>Agents</category>
-      <category>Technology</category>
-      <source url="https://github.com/crewAIInc/crewAI">GitHub Intelligence</source>
+      <category>RAG</category>
+      <source url="https://github.com/headroomlabs-ai/headroom">GitHub Intelligence</source>
     </item>
     <item>
-      <title>[6.5] Gemma 4: Byte for byte, the most capable open models</title>
-      <link>https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models</link>
-      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
-&lt;p&gt;Large language models (LLMs) that continue improving after deployment (e.g., recursive self-improvement) offer a promising path toward general intelligence. Current test-time methods pursue this goal on unlabeled questions, primarily relying on self-consistency: they generate independent solutions and use majority voting to select an answer or construct training targets. This leaves earlier...&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Advances fundamental language model capabilities, reasoning efficiency, or training methodology.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.5/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM / AI Systems / Technology&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 82 upvotes&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2611.30965&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">e48968ad1e2803a72dd7655ee9458072</guid>
-      <pubDate>Thu, 02 Apr 2026 16:00:49 +0000</pubDate>
-      <category>AI Research</category>
-      <category>LLM</category>
-      <category>AI Systems</category>
-      <category>Technology</category>
-      <source url="https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models">DeepMind Blog</source>
-    </item>
-    <item>
-      <title>[6.5] On first-order meta-learning algorithms</title>
+      <title>[6.6] On first-order meta-learning algorithms</title>
       <link>https://openai.com/index/on-first-order-meta-learning-algorithms</link>
       <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
 &lt;p&gt;Reusing past experience in long-horizon tasks requires more than storing successful procedures: Language agents must distinguish which procedures apply and what work remains as execution progresses. We introduce MetaDecomp, an in-context meta-learning framework for adaptive task decomposition that jointly learns a task-relative state space and reusable procedures. Its outer loop builds...&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;MetaDecomp presents a substantive algorithmic framework from OpenAI for improving language agent task decomposition and long-horizon planning, though it remains an incremental research contribution rather than an industry-shifting paradigm change.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.5/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;p&gt;Improves autonomous AI agent workflows, tool use, or planning architectures.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;Research / AI Research / Agents / RAG / Generative AI&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://openai.com/index/on-first-order-meta-learning-algorithms&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">d505c1fa06f78e8b2754bf687e26fd94</guid>
@@ -389,48 +330,141 @@
       <source url="https://openai.com/index/on-first-order-meta-learning-algorithms">OpenAI Blog</source>
     </item>
     <item>
-      <title>[6.5] strix: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.</title>
-      <link>https://github.com/usestrix/strix</link>
+      <title>[6.6] ragflow: RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that ...</title>
+      <link>https://github.com/infiniflow/ragflow</link>
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.&lt;/p&gt;
+&lt;p&gt;RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (77,722 stars) with active community adoption.&lt;/p&gt;
+&lt;p&gt;Rapidly growing open-source project (94,775 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.6/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / Agents / RAG / Semiconductors&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;94.8k ★ · Active development · 11,416 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/infiniflow/ragflow&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">5ff4bf30ae94874f6dd34cdbfd6d6d72</guid>
+      <pubDate>Thu, 26 Nov 2026 13:20:42 +0000</pubDate>
+      <category>GitHub</category>
+      <category>Agents</category>
+      <category>RAG</category>
+      <category>Semiconductors</category>
+      <source url="https://github.com/infiniflow/ragflow">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.5] langchain: The agent engineering platform.</title>
+      <link>https://github.com/langchain-ai/langchain</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;The agent engineering platform.&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (150,042 stars) with active community adoption.&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.5/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;77.7k ★ · Active development · 8,864 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/usestrix/strix&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">c7c9684abfb725296d83aa6b752834ed</guid>
-      <pubDate>Wed, 25 Nov 2026 23:09:16 +0000</pubDate>
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / RAG&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;150.0k ★ · Active development · 25,175 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/langchain-ai/langchain&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">c5a32632e586ab2c7c9c6b0311eaac24</guid>
+      <pubDate>Thu, 26 Nov 2026 10:36:59 +0000</pubDate>
       <category>GitHub</category>
       <category>LLM</category>
       <category>Agents</category>
-      <source url="https://github.com/usestrix/strix">GitHub Intelligence</source>
+      <category>RAG</category>
+      <source url="https://github.com/langchain-ai/langchain">GitHub Intelligence</source>
     </item>
     <item>
-      <title>[6.5] Real2SimLab: A Unified Platform for Real-to-Simulation Transfer</title>
-      <link>https://arxiv.org/abs/2611.34849</link>
+      <title>[6.5] Gemma 4: Byte for byte, the most capable open models</title>
+      <link>https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models</link>
       <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
-&lt;p&gt;Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them. However, each individual benchmark defines its own inputs, deliverables, and scoring pipeline.&lt;/p&gt;
+&lt;p&gt;Large language models (LLMs) that continue improving after deployment (e.g., recursive self-improvement) offer a promising path toward general intelligence. Current test-time methods pursue this goal on unlabeled questions, primarily relying on self-consistency: they generate independent solutions and use majority voting to select an answer or construct training targets. This leaves earlier...&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Real2SimLab addresses a fragmentation issue in AI research by providing a unified evaluation and data generation platform for real-to-simulation coding agents.&lt;/p&gt;
+&lt;p&gt;Advances fundamental language model capabilities, reasoning efficiency, or training methodology.&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.5/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Agents&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 100 upvotes&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2611.34849&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">61f4b5f38fd11161edbac4c1a76a06bf</guid>
-      <pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM / AI Systems / Technology&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 86 upvotes&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2611.30965&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">e48968ad1e2803a72dd7655ee9458072</guid>
+      <pubDate>Thu, 02 Apr 2026 16:00:49 +0000</pubDate>
       <category>AI Research</category>
-      <category>Agents</category>
-      <source url="https://arxiv.org/abs/2611.34849">HuggingFace Daily Papers</source>
+      <category>LLM</category>
+      <category>AI Systems</category>
+      <category>Technology</category>
+      <source url="https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models">DeepMind Blog</source>
     </item>
     <item>
-      <title>[6.5] FoundSurface: Feedforward Ray-Based 3D Scene Surface Reconstruction from Unposed Images</title>
+      <title>[6.5] caveman: why use many token when few token do trick. Skill + local proxy for coding agents: short...</title>
+      <link>https://github.com/JuliusBrussee/caveman</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (123,091 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.5/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;123.1k ★ · Active development · 7,202 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JuliusBrussee/caveman&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">bac657e60ae022eb6406b2f4de1f26c8</guid>
+      <pubDate>Thu, 26 Nov 2026 08:48:02 +0000</pubDate>
+      <category>GitHub</category>
+      <category>LLM</category>
+      <category>Agents</category>
+      <source url="https://github.com/JuliusBrussee/caveman">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.5] prompts.chat: f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the commu...</title>
+      <link>https://github.com/f/prompts.chat</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community.&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (178,601 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.5/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;178.6k ★ · Active development · 22,761 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/f/prompts.chat&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">1643157b768c76e76ecc5855f9a23772</guid>
+      <pubDate>Thu, 26 Nov 2026 07:09:14 +0000</pubDate>
+      <category>GitHub</category>
+      <category>LLM</category>
+      <source url="https://github.com/f/prompts.chat">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.5] MoneyPrinterTurbo: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or ke...</title>
+      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (145,873 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.5/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;145.9k ★ · Active development · 23,488 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/harry0703/MoneyPrinterTurbo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">0604d6a7a7d7afd211057472d17446a4</guid>
+      <pubDate>Thu, 26 Nov 2026 06:08:09 +0000</pubDate>
+      <category>GitHub</category>
+      <category>LLM</category>
+      <source url="https://github.com/harry0703/MoneyPrinterTurbo">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.4] crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborativ...</title>
+      <link>https://github.com/crewAIInc/crewAI</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;Rapidly growing open-source project (61,307 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.4/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / Technology&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;61.3k ★ · Active development · 9,301 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/crewAIInc/crewAI&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">715b6bc81ab4b4ffcee5bb2150989321</guid>
+      <pubDate>Thu, 26 Nov 2026 02:09:07 +0000</pubDate>
+      <category>GitHub</category>
+      <category>LLM</category>
+      <category>Agents</category>
+      <category>Technology</category>
+      <source url="https://github.com/crewAIInc/crewAI">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.4] FoundSurface: Feedforward Ray-Based 3D Scene Surface Reconstruction from Unposed Images</title>
       <link>https://arxiv.org/abs/2611.34128</link>
       <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
 &lt;p&gt;Accurate 3D surface reconstruction from unposed images remains a fundamental challenge in computer vision. Recent feed-forward pointmap methods eliminate the need for camera poses but inherently produce discrete, sparse representations. In this paper, we present a generalizable pipeline that directly recovers continuous, high-fidelity 3D surfaces from unposed images by seamlessly integrating...&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
 &lt;p&gt;Extends vision-language integration for complex real-world reasoning and interaction.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.5/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.4/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Computer Vision&lt;/p&gt;
 &lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 17 upvotes&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2611.34128&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
@@ -441,70 +475,32 @@
       <source url="https://arxiv.org/abs/2611.34128">HuggingFace Daily Papers</source>
     </item>
     <item>
-      <title>[6.5] obsidian-skills: Teach your agent to use Obsidian and open formats including Markdown, Bases, JSO...</title>
-      <link>https://github.com/obsidianmd/obsidian-skills</link>
+      <title>[6.3] ollama: Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</title>
+      <link>https://github.com/ollama/ollama</link>
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.&lt;/p&gt;
+&lt;p&gt;Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (53,903 stars) with active community adoption.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.5/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / Agents&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;53.9k ★ · Active development · 3,837 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/obsidianmd/obsidian-skills&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">733644813585c48ab91f32234bfec143</guid>
-      <pubDate>Wed, 25 Nov 2026 20:12:50 +0000</pubDate>
-      <category>GitHub</category>
-      <category>Agents</category>
-      <source url="https://github.com/obsidianmd/obsidian-skills">GitHub Intelligence</source>
-    </item>
-    <item>
-      <title>[6.4] headroom: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer...</title>
-      <link>https://github.com/headroomlabs-ai/headroom</link>
-      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;It offers a practical, multi-format token compression utility that directly addresses cost and context limits for LLM agents and RAG pipelines.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.4/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / RAG&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;80.9k ★ · Active development · 6,353 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/headroomlabs-ai/headroom&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">668711a6e10728221dfc0e58ed3e6558</guid>
-      <pubDate>Thu, 26 Nov 2026 07:27:51 +0000</pubDate>
+&lt;p&gt;Ollama remains a foundational tool for local LLM deployment, though supporting new models is an incremental update rather than a paradigm shift.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;188.2k ★ · Active development · 19,220 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ollama/ollama&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">77b4be38215d4c711f4039cc054b0821</guid>
+      <pubDate>Thu, 26 Nov 2026 19:40:41 +0000</pubDate>
       <category>GitHub</category>
       <category>LLM</category>
-      <category>Agents</category>
-      <category>RAG</category>
-      <source url="https://github.com/headroomlabs-ai/headroom">GitHub Intelligence</source>
+      <source url="https://github.com/ollama/ollama">GitHub Intelligence</source>
     </item>
     <item>
-      <title>[6.4] Beyond Code and Pixels: Co-Generating Editable and Visually Rich Presentations</title>
-      <link>https://arxiv.org/abs/2611.28010</link>
-      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
-&lt;p&gt;Generating PPTX presentations is a structured task that requires semantic planning, visual composition, precise layout, and editability, motivating collaboration among specialized agents. However, programmatic methods offer editability but often produce rigid designs, while image-based methods provide visual richness but flatten content into difficult-to-edit pixels. A hybrid system can...&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Improves autonomous AI agent workflows, tool use, or planning architectures.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.4/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Agents / Multimodal / Generative AI&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 10 upvotes&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2611.28010&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">77aa4e08ec8bd2d64428a4592ab96097</guid>
-      <pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
-      <category>AI Research</category>
-      <category>Agents</category>
-      <category>Multimodal</category>
-      <category>Generative AI</category>
-      <source url="https://arxiv.org/abs/2611.28010">HuggingFace Daily Papers</source>
-    </item>
-    <item>
-      <title>[6.4] ai-engineering-from-scratch: Learn AI Engineering! Learn it. Build it. Ship it for others.</title>
+      <title>[6.3] ai-engineering-from-scratch: Learn AI Engineering! Learn it. Build it. Ship it for others.</title>
       <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
 &lt;p&gt;Learn AI Engineering! Learn it. Build it.&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (80,427 stars) with active community adoption.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.4/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;p&gt;Rapidly growing open-source project (80,617 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / Multimodal&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;80.4k ★ · Active development · 14,396 forks&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;80.6k ★ · Active development · 14,450 forks&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rohitg00/ai-engineering-from-scratch&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">7b553354eb5444076503f1cdff49c5d4</guid>
       <pubDate>Wed, 25 Nov 2026 15:31:09 +0000</pubDate>
@@ -515,34 +511,15 @@
       <source url="https://github.com/rohitg00/ai-engineering-from-scratch">GitHub Intelligence</source>
     </item>
     <item>
-      <title>[6.4] graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable know...</title>
-      <link>https://github.com/Graphify-Labs/graphify</link>
-      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (153,717 stars) with active community adoption.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.4/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / RAG&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;153.7k ★ · Active development · 14,784 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Graphify-Labs/graphify&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">c290a2acf859c75ba01866cb35826aea</guid>
-      <pubDate>Wed, 25 Nov 2026 13:52:46 +0000</pubDate>
-      <category>GitHub</category>
-      <category>LLM</category>
-      <category>Agents</category>
-      <category>RAG</category>
-      <source url="https://github.com/Graphify-Labs/graphify">GitHub Intelligence</source>
-    </item>
-    <item>
-      <title>[6.4] mem0: The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Cont...</title>
+      <title>[6.3] mem0: The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Cont...</title>
       <link>https://github.com/mem0ai/mem0</link>
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
 &lt;p&gt;The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (69,504 stars) with active community adoption.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.4/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;p&gt;Rapidly growing open-source project (69,514 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / RAG / Semiconductors&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;69.5k ★ · Active development · 8,274 forks&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;69.5k ★ · Active development · 8,278 forks&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mem0ai/mem0&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">cddc9a2d075a51037ba44e9147d87bac</guid>
       <pubDate>Wed, 25 Nov 2026 10:59:52 +0000</pubDate>
@@ -554,15 +531,15 @@
       <source url="https://github.com/mem0ai/mem0">GitHub Intelligence</source>
     </item>
     <item>
-      <title>[6.3] ai-agent-book: 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码</title>
+      <title>[6.2] ai-agent-book: 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码</title>
       <link>https://github.com/bojieli/ai-agent-book</link>
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
 &lt;p&gt;《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (60,019 stars) with active community adoption.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;p&gt;Rapidly growing open-source project (60,021 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.2/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / RAG / Multimodal&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;60.0k ★ · Active development · 7,053 forks&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;60.0k ★ · Active development · 7,052 forks&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bojieli/ai-agent-book&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">2e2562d0bda4e0975ef6dccb655cb0ea</guid>
       <pubDate>Wed, 25 Nov 2026 07:37:28 +0000</pubDate>
@@ -574,15 +551,15 @@
       <source url="https://github.com/bojieli/ai-agent-book">GitHub Intelligence</source>
     </item>
     <item>
-      <title>[6.3] TradingAgents: TradingAgents: Towards Agentic Finance Research</title>
+      <title>[6.2] TradingAgents: TradingAgents: Towards Agentic Finance Research</title>
       <link>https://github.com/TauricResearch/TradingAgents</link>
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
 &lt;p&gt;TradingAgents: Towards Agentic Finance Research&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (123,828 stars) with active community adoption.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;p&gt;Rapidly growing open-source project (123,850 stars) with active community adoption.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.2/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;123.8k ★ · Active development · 23,718 forks&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;123.8k ★ · Active development · 23,719 forks&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/TauricResearch/TradingAgents&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">626a5e4fcb233d8d7ffe545e87dad1f9</guid>
       <pubDate>Wed, 25 Nov 2026 07:27:54 +0000</pubDate>
@@ -592,13 +569,13 @@
       <source url="https://github.com/TauricResearch/TradingAgents">GitHub Intelligence</source>
     </item>
     <item>
-      <title>[6.3] Diverse Alternative Reasoning Traces for Hard Math Problems</title>
+      <title>[6.2] Diverse Alternative Reasoning Traces for Hard Math Problems</title>
       <link>https://tldr.takara.ai/p/2611.34928</link>
       <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
 &lt;p&gt;Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC) sampling. To address this, we propose Diverse Alternative Reasoning Traces (DART), a trace-mining method that starts from a rejected trace, decomposes it into...&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
 &lt;p&gt;Advances fundamental language model capabilities, reasoning efficiency, or training methodology.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.2/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM / Technology&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://tldr.takara.ai/p/2611.34928&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">31397b91b3ee45bc3e4411ca7b806c3d</guid>
@@ -609,52 +586,15 @@
       <source url="https://tldr.takara.ai/p/2611.34928">HuggingFace Daily Papers RSS</source>
     </item>
     <item>
-      <title>[6.3] transformers: 🤗 Transformers: the model-definition framework for state-of-the-art machine learnin...</title>
-      <link>https://github.com/huggingface/transformers</link>
-      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Hugging Face Transformers remains a foundational industry standard framework, but this repository entry represents ongoing maintenance rather than a novel breakthrough.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Multimodal / Semiconductors&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;169.4k ★ · Active development · 35,312 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/huggingface/transformers&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">53d940334a2a5afd27d78fb59bceaf01</guid>
-      <pubDate>Thu, 26 Nov 2026 16:04:43 +0000</pubDate>
-      <category>GitHub</category>
-      <category>LLM</category>
-      <category>Multimodal</category>
-      <category>Semiconductors</category>
-      <source url="https://github.com/huggingface/transformers">GitHub Intelligence</source>
-    </item>
-    <item>
-      <title>[6.3] CONCOR: Benchmarking Contrastive Decoding for Visual Hallucination Mitigation Beyond Final-Output Performance</title>
-      <link>https://arxiv.org/abs/2611.30460</link>
-      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
-&lt;p&gt;Contrastive decoding (CD) mitigates object hallucination in multimodal large language models (MLLMs) by contrasting token distributions under different conditions to adjust token scores. However, existing generative and discriminative benchmarks primarily measure final task scores, which can be confounded by candidate filtering, changes in generation trajectories, and response biases, making...&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Advances fundamental language model capabilities, reasoning efficiency, or training methodology.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.3/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / LLM / Multimodal&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 2 upvotes&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2611.30460&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">fb06113008809773da37c042b5865602</guid>
-      <pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
-      <category>AI Research</category>
-      <category>LLM</category>
-      <category>Multimodal</category>
-      <source url="https://arxiv.org/abs/2611.30460">HuggingFace Daily Papers</source>
-    </item>
-    <item>
       <title>[6.2] anything-llm: Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a ...</title>
       <link>https://github.com/Mintplex-Labs/anything-llm</link>
       <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
 &lt;p&gt;Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Rapidly growing open-source project (68,666 stars) with active community adoption.&lt;/p&gt;
+&lt;p&gt;Rapidly growing open-source project (68,674 stars) with active community adoption.&lt;/p&gt;
 &lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.2/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Agents / RAG / Multimodal&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;68.7k ★ · Active development · 7,759 forks&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;68.7k ★ · Active development · 7,758 forks&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Mintplex-Labs/anything-llm&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">85b23a6c94bb0832d0627c5b22a1d302</guid>
       <pubDate>Tue, 24 Nov 2026 21:12:02 +0000</pubDate>
@@ -666,13 +606,13 @@
       <source url="https://github.com/Mintplex-Labs/anything-llm">GitHub Intelligence</source>
     </item>
     <item>
-      <title>[6.2] RoboEvo^2: Recursive Robot Self-Improvement via Harness-Policy Co-Evolution</title>
+      <title>[6.1] RoboEvo^2: Recursive Robot Self-Improvement via Harness-Policy Co-Evolution</title>
       <link>https://arxiv.org/abs/2611.34675</link>
       <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
 &lt;p&gt;Robots should adapt to unfamiliar environments and acquire new skills through interaction, then execute those skills efficiently with practice. Vision-language-action policies provide efficient control, but often need additional human demonstrations to handle unfamiliar settings; reasoning agents can discover solutions using broad prior knowledge and robot-control APIs, but repeated...&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
 &lt;p&gt;Advances fundamental language model capabilities, reasoning efficiency, or training methodology.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.2/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.1/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Agents / Multimodal&lt;/p&gt;
 &lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 9 upvotes&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2611.34675&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
@@ -684,13 +624,32 @@
       <source url="https://arxiv.org/abs/2611.34675">HuggingFace Daily Papers</source>
     </item>
     <item>
-      <title>[6.2] Distractor-Robust Reinforcement Learning via Variational Bisimulation</title>
+      <title>[6.1] transformers: 🤗 Transformers: the model-definition framework for state-of-the-art machine learnin...</title>
+      <link>https://github.com/huggingface/transformers</link>
+      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
+&lt;p&gt;🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.&lt;/p&gt;
+&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
+&lt;p&gt;This is the flagship Hugging Face Transformers repository, representing foundational infrastructure rather than a novel breakthrough.&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.1/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM / Multimodal / Semiconductors&lt;/p&gt;
+&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;169.4k ★ · Active development · 35,315 forks&lt;/p&gt;
+&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/huggingface/transformers&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">53d940334a2a5afd27d78fb59bceaf01</guid>
+      <pubDate>Fri, 27 Nov 2026 01:14:27 +0000</pubDate>
+      <category>GitHub</category>
+      <category>LLM</category>
+      <category>Multimodal</category>
+      <category>Semiconductors</category>
+      <source url="https://github.com/huggingface/transformers">GitHub Intelligence</source>
+    </item>
+    <item>
+      <title>[6.1] Distractor-Robust Reinforcement Learning via Variational Bisimulation</title>
       <link>https://tldr.takara.ai/p/2611.34641</link>
       <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
 &lt;p&gt;Model-based reinforcement learning (MBRL) promises data efficiency and generalization, but typical reconstruction-based objectives encourage models to waste representational capacity on task-irrelevant distractors. We introduce VIBES (Variational Inference for Bisimulation-based Encoded States), a new objective that replaces pixel reconstruction with an adversarial term, which enforces that...&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
 &lt;p&gt;Enhances retrieval-augmented generation accuracy, knowledge grounding, or context window utilization.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.2/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.1/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / RAG / AI Systems&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://tldr.takara.ai/p/2611.34641&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">e792cb4c3fd92475ee91d9c4cac112a3</guid>
@@ -701,31 +660,13 @@
       <source url="https://tldr.takara.ai/p/2611.34641">HuggingFace Daily Papers RSS</source>
     </item>
     <item>
-      <title>[6.1] SEEK: Self-Evolution through Execution Knowledge for Agentic Robot Manipulation</title>
-      <link>https://arxiv.org/abs/2611.33915</link>
-      <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
-&lt;p&gt;General-purpose multimodal foundation models enable robots to adapt during deployment from observations and execution feedback, without task-specific demonstrations or training. However, the robot retains what it learns only in the model&amp;#x27;s working context. Once the task ends, it loses this execution knowledge, such as how to carry a bowl between two grippers.&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;Improves autonomous AI agent workflows, tool use, or planning architectures.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.1/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Agents / Multimodal&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;HF: 10 upvotes&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2611.33915&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">7f2029d0ffba62dc897c466499ae6074</guid>
-      <pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
-      <category>AI Research</category>
-      <category>Agents</category>
-      <category>Multimodal</category>
-      <source url="https://arxiv.org/abs/2611.33915">HuggingFace Daily Papers</source>
-    </item>
-    <item>
-      <title>[6.1] Tracking Any Point with Agentic Visual Reasoning</title>
+      <title>[6.0] Tracking Any Point with Agentic Visual Reasoning</title>
       <link>https://tldr.takara.ai/p/2611.34943</link>
       <description>&lt;h3&gt;WHAT HAPPENED&lt;/h3&gt;
 &lt;p&gt;A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surface point across observations, even when appearance changes or the point...&lt;/p&gt;
 &lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
 &lt;p&gt;Advances fundamental language model capabilities, reasoning efficiency, or training methodology.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.1/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
+&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.0/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
 &lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;AI Research / Agents / RAG / Multimodal / Computer Vision&lt;/p&gt;
 &lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://tldr.takara.ai/p/2611.34943&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Read Paper →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">da29a58722c4d712818d74290edf3ff0</guid>
@@ -736,23 +677,6 @@
       <category>Multimodal</category>
       <category>Computer Vision</category>
       <source url="https://tldr.takara.ai/p/2611.34943">HuggingFace Daily Papers RSS</source>
-    </item>
-    <item>
-      <title>[6.0] prompts.chat: f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the commu...</title>
-      <link>https://github.com/f/prompts.chat</link>
-      <description>&lt;h3&gt;WHAT IT IS&lt;/h3&gt;
-&lt;p&gt;f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community.&lt;/p&gt;
-&lt;h3&gt;WHY IT MATTERS&lt;/h3&gt;
-&lt;p&gt;This is a popular and enduring community resource for prompt engineering, but it represents incremental curation rather than a major technical breakthrough.&lt;/p&gt;
-&lt;h3&gt;IMPORTANCE&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;6.0/10&lt;/strong&gt; · 🟡 WORTH KNOWING&lt;/p&gt;
-&lt;h3&gt;CATEGORY&lt;/h3&gt;&lt;p&gt;GitHub / LLM&lt;/p&gt;
-&lt;h3&gt;SIGNALS&lt;/h3&gt;&lt;p&gt;178.6k ★ · Active development · 22,761 forks&lt;/p&gt;
-&lt;h3&gt;SOURCES &amp; LINKS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/f/prompts.chat&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;View Repository →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">1643157b768c76e76ecc5855f9a23772</guid>
-      <pubDate>Thu, 26 Nov 2026 07:09:14 +0000</pubDate>
-      <category>GitHub</category>
-      <category>LLM</category>
-      <source url="https://github.com/f/prompts.chat">GitHub Intelligence</source>
     </item>
   </channel>
 </rss>
